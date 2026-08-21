@@ -1,4 +1,4 @@
-## Field assessment data from Natura 2000 habitat monitoring
+## Field assessment data from Natura 2000 habitat monitoring {#sec-ds-fieldassessments}
 
 - Numerical
 - New/Primary dataset

@@ -1,4 +1,4 @@
-## Explanatory attributes of sample units
+## Explanatory attributes of sample units {#sec-ds-sampleunit-attributes}
 
 - Numerical; Text (English)
 - New/Primary dataset comprising explanatory variables at sample unit level collected through GIS analyses or in the field for data analysis and interpretation

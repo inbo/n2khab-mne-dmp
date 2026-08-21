@@ -2,23 +2,24 @@
 
 ## Datasets
 
-Field assessment data from Natura 2000 habitat monitoring
-Sampling frame for Natura 2000 habitat monitoring
-Design attributes of spatiotemporal sample units
-Explanatory attributes of sample units
-Groundwater and surface water level
-Groundwater quality
-Surface water quality
-Soil physicochemistry
-Metadata of in-situ equipment at groundwater sites
-Metadata of in-situ equipment at surface water sites
-Metadata of in-situ equipment at soil monitoring sites
-Inundation water quality
-Air quality
+- Field assessment data from Natura 2000 habitat monitoring (@sec-ds-fieldassessments)
+- Sampling frame for Natura 2000 habitat monitoring (@sec-ds-samplingframe)
+- Design attributes of spatiotemporal sample units (@sec-ds-sampleunit-design)
+- Explanatory attributes of sample units (@sec-ds-sampleunit-attributes)
+- Groundwater Level (@sec-ds-gw-levels)
+- Surface Water Level (@sec-ds-surf-levels)
+- Groundwater quality (@sec-ds-gw-quality)
+- Surface water quality (@sec-ds-surf-quality)
+- Soil physicochemistry (@sec-ds-soil-physchem)
+- Metadata of in-situ equipment at groundwater sites (@sec-ds-gw-meta)
+- Metadata of in-situ equipment at surface water sites (@sec-ds-surf-meta)
+- Metadata of in-situ equipment at soil monitoring sites (@sec-ds-soil-meta)
+- Inundation water quality (@sec-ds-inundation)
+- Air quality (@sec-ds-air)
 
 ## General Considerations
 
-- Whether there are sensitivity/ethical/legal concerns with the datasets is not yet clear *[TBD]*.
-- All datasets are planned to be published openly as soon as possible, the specifics for each dataset and type of data are still to be decided *[TBD]*.
+- Whether there are sensitivity/ethical/legal concerns with the datasets is not yet clear [*TBD*].
+- All datasets are planned to be published openly as soon as possible, the specifics for each dataset and type of data are still to be decided [*TBD*].
 
 

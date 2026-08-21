@@ -13,7 +13,7 @@
 
 {{< include datasets/220_groundwater_quality.qmd >}}
 
-{{< include datasets/230_groundwater_site.qmd >}}
+{{< include datasets/230_groundwater_metadata.qmd >}}
 
 {{< include datasets/310_surfacewater_levels.qmd >}}
 

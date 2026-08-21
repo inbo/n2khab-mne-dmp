@@ -1,4 +1,4 @@
-## Design attributes of spatiotemporal sample units
+## Design attributes of spatiotemporal sample units {#sec-ds-sampleunit-design}
 
 - Numerical
 - New/Primary dataset which includes, among other data, the stratum size; sampling weight per site & per observation year; tracks planned sites, planned site visits & site replacements; is created from R functions which draw the sample from the sampling frame.

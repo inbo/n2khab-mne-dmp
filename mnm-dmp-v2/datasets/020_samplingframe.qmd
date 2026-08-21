@@ -1,4 +1,4 @@
-## Sampling frame for Natura 2000 habitat monitoring
+## Sampling frame for Natura 2000 habitat monitoring {#sec-ds-samplingframe}
 
 - Numerical
 - New/Primary dataset related to presence of habitat type (around 1.2 million rows of data). Data will be derived from existing spatial layers & the (above listed) field assessment dataset, using R functions that generate GRTS ranking number, take care of the integration etc.

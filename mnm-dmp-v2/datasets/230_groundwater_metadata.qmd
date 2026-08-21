@@ -1,4 +1,4 @@
-## Metadata of in-situ equipment at groundwater sites
+## Metadata of in-situ equipment at groundwater sites {#sec-ds-gw-meta}
 
 - Numerical; Text (English)
 - Adding new data to an existing dataset (the Watina SQL Server database). Data are updated frequently (e.g. daily).

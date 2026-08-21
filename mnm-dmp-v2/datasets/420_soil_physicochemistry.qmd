@@ -1,4 +1,4 @@
-## Soil physicochemistry
+## Soil physicochemistry {#sec-ds-soil-physchem}
 
 - Physical, Numerical.
 - Physical samples will be held by INBO according to existing procedures.
