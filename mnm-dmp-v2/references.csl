@@ -1,0 +1,58 @@
+[
+	{
+		"id": "Dumelle2022",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              \n                \n                  The design‐based and model‐based approaches to frequentist statistical inference rest on fundamentally different foundations. In the design‐based approach, inference relies on random sampling. In the model‐based approach, inference relies on distributional assumptions. We compare the approaches in a finite population spatial context.\n                \n                \n                  We provide relevant background for the design‐based and model‐based approaches and then study their performance using simulated data and real data. The real data are from the United States Environmental Protection Agency's 2012 National Lakes Assessment. A variety of sample sizes, location layouts, dependence structures, and response types are considered. The population mean is the parameter of interest, and performance is measured using statistics like bias, squared error and interval coverage.\n                \n                \n                  When studying the simulated and real data, we found that regardless of the strength of spatial dependence in the data, the generalized random tessellation stratified (GRTS) algorithm, which explicitly incorporates spatial locations into sampling, tends to outperform the simple random sampling (SRS) algorithm, which does not explicitly incorporate spatial locations into sampling. We also found that model‐based inference tends to outperform design‐based inference, even for skewed data where the model‐based distributional assumptions are violated. The performance gap between design‐based inference and model‐based inference is small when GRTS samples are used but large when SRS samples are used, suggesting that the sampling choice (whether to use GRTS or SRS) is most important when performing design‐based inference.\n                \n                \n                  There are many benefits and drawbacks to the design‐based and model‐based approaches for finite population spatial sampling and inference that practitioners must consider when choosing between them. We provide relevant background contextualizing each approach and study their properties in a variety of scenarios, making recommendations for use based on the practitioner's goals.",
+		"citation-key": "Dumelle2022",
+		"container-title": "Methods in Ecology and Evolution",
+		"DOI": "10.1111/2041-210X.13919",
+		"ISSN": "2041-210X, 2041-210X",
+		"issue": "9",
+		"journalAbbreviation": "Methods Ecol Evol",
+		"language": "en",
+		"page": "2018-2029",
+		"source": "DOI.org (Crossref)",
+		"title": "A comparison of design‐based and model‐based approaches for finite population spatial sampling and inference",
+		"URL": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13919",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Dumelle",
+				"given": "Michael"
+			},
+			{
+				"family": "Higham",
+				"given": "Matt"
+			},
+			{
+				"family": "Ver Hoef",
+				"given": "Jay M."
+			},
+			{
+				"family": "Olsen",
+				"given": "Anthony R."
+			},
+			{
+				"family": "Madsen",
+				"given": "Lisa"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9
+				]
+			]
+		}
+	}
+]

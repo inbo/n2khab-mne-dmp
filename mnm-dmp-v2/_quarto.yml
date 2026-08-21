@@ -1,0 +1,71 @@
+project:
+  type: book
+
+book:
+  title: "DMP for MNE - Monitoring Programme for the Natural Environment"
+  author:
+
+    - name:
+        given: Karen
+        family: Wuyts
+        literal:  Karen Wuyts
+      email: karen.wuyts@inbo.be
+      orcid: 0000-0002-3371-6828
+      affiliations:
+        - name: Research Institute for Nature and Forest (INBO)
+          city: Brussels
+    - name:
+        given: Floris
+        family: Vanderhaeghe
+        literal: Floris Vanderhaeghe
+      email: floris.vanderhaeghe@inbo.be
+      orcid: 0000-0002-6378-6229
+      affiliations:
+        - name: Research Institute for Nature and Forest (INBO)
+          city: Brussels
+    - name:
+        given: Falk
+        family: Mielke
+        literal: Falk Mielke
+      email: falk.mielke@inbo.be
+      orcid: 0000-0003-3229-0981
+      affiliations:
+        - name: Research Institute for Nature and Forest (INBO)
+          city: Brussels
+    - name:
+        given: Toon
+        family: Westra
+        literal: Toon Westra
+      email: toon.westra@inbo.be
+      orcid: 0000-0003-2478-9459
+      affiliations:
+        - name: Research Institute for Nature and Forest (INBO)
+          city: Brussels
+    - name:
+        given: Maria-Rose
+        family: Eves Down
+        literal: Maria-Rose Eves Down
+      email: mariarose.evesdown@inbo.be
+      orcid: 0009-0000-9611-3824
+      affiliations:
+        - name: Research Institute for Nature and Forest (INBO)
+          city: Brussels
+  date: "2026-08-21"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.csl
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
