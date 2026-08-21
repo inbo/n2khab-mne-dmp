@@ -1,4 +1,4 @@
-# Accessibility
+# Accessibility {#sec-accessibility}
 
 ## Current Accessibility
 
@@ -24,6 +24,7 @@ Access to these systems is limited to INBO staff and can be further restricted t
 It is likely that there will be restrictions on some of the data/datasets, but this is not yet clear.
 This section will be updated accordingly when appropriate.
 
+
 ## Publication
 
 > How will the data be made publicly available? (If this is not yet the case)
@@ -35,4 +36,5 @@ What the specifics are regarding publication of the data will be addressed separ
 
 
 > What is the estimated timeline/roadmap for publication?
+
 *(new paragraph)*

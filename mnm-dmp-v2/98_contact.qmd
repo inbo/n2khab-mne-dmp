@@ -1,4 +1,4 @@
-# Contact Information
+# Contact Information {#sec-contact}
 
 ## Research team contact for the dataset (business owner/contact/PI)
 

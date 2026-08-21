@@ -9,6 +9,8 @@ Instituut voor Natuur- en Bosonderzoek. <br>
 `<DOI>`
 :::
 
+Contact information of the authors is listed in @sec-contact.
+
 
 ## List of Abbreviations
 

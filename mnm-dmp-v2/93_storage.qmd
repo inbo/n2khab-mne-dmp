@@ -1,4 +1,4 @@
-# Data Storage
+# Data Storage {#sec-storage}
 
 > How will the data be stored and backed up?
 
