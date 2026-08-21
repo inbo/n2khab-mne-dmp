@@ -33,6 +33,7 @@ quarto render <subfolder>
   - <https://inbo.github.io/mnedesigndata/reference>
 + but add disclaimer: date of the data / status as of date of DMP
 + capitalize WATINA
++ potentially add RSE, STAT and MO's as authors
 
 
 ## index
