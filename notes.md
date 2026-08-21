@@ -23,6 +23,17 @@ quarto render <subfolder>
 
 + license: (which) should we add to the repo?
 + add this repo to <https://github.com/inbo/n2khab-monitoring>
++ primary/secondary data categorization
++ dynamic updates of and links to data storage and repositories
++ replace / mention REP
++ link to project protocols
++ links to github repos are useful and recommended
++ links to documentation
+  - <https://github.com/inbo/n2khab-monitoring>
+  - <https://inbo.github.io/mnedesigndata/reference>
++ but add disclaimer: date of the data / status as of date of DMP
++ capitalize WATINA
+
 
 ## index
 add DOI if possible
