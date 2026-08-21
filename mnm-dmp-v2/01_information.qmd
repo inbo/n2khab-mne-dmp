@@ -1,0 +1,43 @@
+# General Information 
+
+## Title
+
+DMP for MNE - Monitoring Programme for the Natural Environment / DMP voor MNM - Meetnetten Natuurlijk Milieu
+
+
+## Language
+
+English (with certain elements also detailed in Dutch)
+
+
+## Version History
+
+The current version is Version 2.0. 
+Previous versions are listed in [Table @tbl-versions].
+
+| Version |          Date | Changes                                  |
+|:-------:|--------------:|:-----------------------------------------|
+|  v2.0   | *in progress* | - migrate from DMPOnline to git + quarto |
+|         |               | - <tbd>                                  |
+|  v1.0   |    2025-01-14 | - initial version                        |
+: Version History {#tbl-versions}
+
+
+## Abstract
+
+:::{.panel-tabset group="languages"}
+
+### EN 
+The MNE project encompasses many datasets: some old, some new, and many that are expected to be recurrently updated until at least 2050.
+This data management plan describes the different data streams, data sets and how they will be managed during and after the data is gathered.
+It also details the different organisations involved in the project and where responsibility for each dataset lies.
+
+
+### NL
+Het MNE-project omvat vele datasets: zowel oude als nieuwe, en vele die naar verwachting regelmatig zullen worden geüpdatet
+tot ten minste 2050.
+Dit datamanagementplan beschrijft de verschillende datastromen, datasets en hoe deze zullen worden beheerd tijdens en na het verzamelen van de data.
+Het beschrijft ook de verschillende organisaties die betrokken zijn bij het project en waar de verantwoordelijkheid voor elke dataset ligt.
+
+:::
+

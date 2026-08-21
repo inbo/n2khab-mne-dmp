@@ -53,11 +53,16 @@ book:
   date: "2026-08-21"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - 01_information.qmd
+    - 02_datasets.qmd
+    - 03_contact.qmd
+    - 80_integration.qmd
+    - 91_interoperability.qmd
+    - 92_accessibility.qmd
+    - 93_storage.qmd
+    - 99_references.qmd
 
-bibliography: references.csl
+bibliography: references.json
 
 format:
   html:

@@ -1,0 +1,3 @@
+# Data Storage
+
+> How will the data be stored and backed up?

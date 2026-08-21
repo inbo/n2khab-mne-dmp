@@ -1,5 +1,8 @@
-# Preface {.unnumbered}
+# Index {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+:::{.callout-tip title="Citation"}
+F. Vanderhaeghe, K. Wuyts, M.-R. Eves Down, F. Mielke, T. Westra (2026): <br>
+**Data Management plan for MNM/MNE (Version 2).** <br>
+Instituut voor Natuur- en Bosonderzoek. <br>
+`<DOI>`
+:::

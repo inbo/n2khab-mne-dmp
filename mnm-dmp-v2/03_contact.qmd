@@ -1,0 +1,18 @@
+# Contact Information
+
+## Research team contact for the dataset (business owner/contact/PI)
+
+|                     |                             |                                       |
+|---------------------|-----------------------------|---------------------------------------|
+| Karen Wuyts         | karen.wuyts@inbo.be         | https://orcid.org/0000-0002-3371-6828 |
+| Floris Vanderhaeghe | floris.vanderhaeghe@inbo.be | https://orcid.org/0000-0002-6378-6229 |
+| Falk Mielke         | falk.mielke@inbo.be         | https://orcid.org/0000-0003-3229-0981 |
+| Toon Westra         | toon.westra@inbo.be         | https://orcid.org/0000-0003-2478-9459 |
+
+## Support team contact for the dataset (database manager/contact)
+
+|                      |                            |                                       |
+|----------------------|----------------------------|---------------------------------------|
+| Falk Mielke          | falk.mielke@inbo.be        | https://orcid.org/0000-0003-3229-0981 |
+| Maria-Rose Eves Down | mariarose.evesdown@inbo.be | https://orcid.org/0009-0000-9611-3824 |
+| Toon Westra          | toon.westra@inbo.be        | https://orcid.org/0000-0003-2478-9459 |

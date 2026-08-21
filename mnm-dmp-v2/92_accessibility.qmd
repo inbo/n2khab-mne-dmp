@@ -1,0 +1,10 @@
+# Accessibility
+
+> What is the current accessibility of the dataset?
+
+> Are there any restrictions on making the data publicly available?
+
+> How will the data be made publicly available? (If this is not yet the case)
+
+
+> What is the estimated timeline/roadmap for publication?
