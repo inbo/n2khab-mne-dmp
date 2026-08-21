@@ -1,8 +1,26 @@
 # Index {.unnumbered}
 
+## Citation
+
 :::{.callout-tip title="Citation"}
 F. Vanderhaeghe, K. Wuyts, M.-R. Eves Down, F. Mielke, T. Westra (2026): <br>
 **Data Management plan for MNM/MNE (Version 2).** <br>
 Instituut voor Natuur- en Bosonderzoek. <br>
 `<DOI>`
 :::
+
+
+## List of Abbreviations
+
+|        |                                                                                       |
+|--------|---------------------------------------------------------------------------------------|
+| API    | Application Programming Interface                                                     |
+| DMP    | Data Management Plan                                                                  |
+| DOV    | Databank Ondergrond Vlaanderen                                                        |
+| INBO   | *nl.* Instituut Natuur- en Bosonderzoek / Research Institute for Nature and Forest    |
+| MNE    | Monitoring Programme for the Natural Environment                                      |
+| MNM    | *nl.* Meetnetten Natuurlijk Milieu / Monitoring Programme for the Natural Environment |
+| SQL    | Structured Query Language                                                             |
+| TBD    | To Be Decided/Determined/Discussed                                                    |
+| WATINA | *nl.* WATer In NAtuur / WATer In NAture (a database)                                  |
+
