@@ -73,6 +73,7 @@ format:
     # title-block-banner: '#C04483'
     email-obfuscation: references
     linkcolor: '#C04483'
+    embed-resources: true
   pdf:
     documentclass: scrreprt
     linkcolor: 'inbopink'

@@ -35,3 +35,4 @@ add DOI if possible
 ## 02_datasets
 
 + ++ protocols?
++ split surface water level (RTK) from groundwater level?
