@@ -11,6 +11,13 @@ echo "*.png" >> .gitignore
 ```
 
 
+The book can be rendered by navigating to the git folder and executing
+
+```sh
+quarto render <subfolder>
+```
+
+
 # TODO
 ## organizational
 

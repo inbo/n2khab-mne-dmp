@@ -70,7 +70,7 @@ format:
     theme:
       - cosmo
       - brand
-    title-block-color: '#C04483'
+    # title-block-banner: '#C04483'
     email-obfuscation: references
     linkcolor: '#C04483'
   pdf:
