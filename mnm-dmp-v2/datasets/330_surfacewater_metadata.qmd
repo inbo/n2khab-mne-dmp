@@ -1,0 +1,10 @@
+## Metadata of in-situ equipment at surface water sites
+
+- Numerical; Text (English)
+- Adding new data to an existing dataset (the Aqua Chem and Watina SQL Server database). Data are updated frequently (e.g. daily). Added data is verified.
+- Includes properties of in-situ equipment for interpretation & equipment management, such as spatial position (3D) of the water level gauge.
+- Collection expected to run from 2026 to 2050 and exclusively by INBO
+- Backup strategy: monthly data dumps to cloud storage such as Google Drive, and to local digital storage (physical hard drives).
+- Publishing strategy: planned to be published openly as soon as possible. Releases are made less frequently (e.g. yearly) to Zenodo.
+- Expected to include ongoing/continuous data revision/addition and yearly updating of dataset until (at least) 2050.
+

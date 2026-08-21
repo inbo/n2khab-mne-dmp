@@ -1,0 +1,16 @@
+## Sampling frame for Natura 2000 habitat monitoring
+
+- Numerical
+- New/Primary dataset related to presence of habitat type (around 1.2 million rows of data). Data will be derived from existing spatial layers & the (above listed) field assessment dataset, using R functions that generate GRTS ranking number, take care of the integration etc.
+- Dataset compilation to begin in 2024.
+- Expected to include ongoing/continuous data collection and yearly updating of dataset until (at least) 2050.
+- Data are updated frequently (e.g. daily) in the production environment; format and workflow TBD (ideally an open SQL database).
+- Backup strategy: monthly data dumps to cloud storage such as Google Drive, and to local digital storage (physical hard drives).
+- Publishing strategy: releases are made less frequently (e.g. yearly) to Zenodo. This process may be facilitated by GitHub.
+- Version control will be implemented continuously in between published releases, using git.
+- Related to MHQ (Monitoring of biotic habitat quality).
+- Data is collected in conjunction with ANB (Agentschap Natuur en Bos).
+- Data is publicly owned.
+- CC0 usage license.
+- Data management responsibilities rest with INBO
+

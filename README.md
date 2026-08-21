@@ -1,4 +1,4 @@
-# Data Management Plan - Monitoring Programme for the Natural Environment (MNE DMP)
+# MNE DMP: Data Management Plan of the Monitoring Programme for the Natural Environment
 
 This repository is used for the collaborative work on the documentation of data management practices on the MNE project.
 

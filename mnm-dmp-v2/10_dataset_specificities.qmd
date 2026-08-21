@@ -1,0 +1,29 @@
+# Dataset-Specific Details
+
+
+{{< include datasets/010_fieldassessment.qmd >}}
+
+{{< include datasets/020_samplingframe.qmd >}}
+
+{{< include datasets/030_spatiotemporal_sampleunits.qmd >}}
+
+{{< include datasets/040_sampleunit_attributes.qmd >}}
+
+{{< include datasets/210_groundwater_levels.qmd >}}
+
+{{< include datasets/220_groundwater_quality.qmd >}}
+
+{{< include datasets/230_groundwater_site.qmd >}}
+
+{{< include datasets/310_surfacewater_levels.qmd >}}
+
+{{< include datasets/320_surfacewater_quality.qmd >}}
+
+{{< include datasets/330_surfacewater_metadata.qmd >}}
+
+{{< include datasets/410_soil_metadata.qmd >}}
+
+{{< include datasets/420_soil_physicochemistry.qmd >}}
+
+{{< include datasets/900_future.qmd >}}
+
