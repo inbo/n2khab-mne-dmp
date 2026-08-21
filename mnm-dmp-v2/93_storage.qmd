@@ -1,3 +1,17 @@
 # Data Storage
 
 > How will the data be stored and backed up?
+
+
+Storage and back-up of the datasets is situation and source dependent. Where appropriate, this has been detailed in the descriptions of the datasets earlier in this DMP.
+
+
+Various Google Drives in the INBO Google Drive system are likely to be used for data storage in this project. 
+These generally include one project folder per project drive and folders on the INBO Google Archive Drive. Access to the files on these drives can be limited to 'need to know' INBO staff.
+Both types of drives have a 30-day back-up of any deleted files.
+
+The Archive Drive is also a 'read-only' Drive for most users, with permissions to upload files being limited to a short list of INBO staff.
+
+
+We also plan to use local digital storage on physical hard drives for regular back-ups. Which data shall be backed up in this way has not yet been completely decided, but where possible this has been detailed previously under the dataset descriptions.
+A comprehensive dataset back-up plan for the entire project needs to be designed and implemented; therefore this section will be updated accordingly when appropriate.

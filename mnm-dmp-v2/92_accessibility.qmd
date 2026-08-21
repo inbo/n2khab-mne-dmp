@@ -1,10 +1,38 @@
 # Accessibility
 
+## Current Accessibility
+
 > What is the current accessibility of the dataset?
+
+Certain datasets are already publicly available, where this is the case it has been noted previously under the dataset descriptions.
+In general, the following sources/datasets are already publicly available:
+
+- DOV (Databank Ondergrond Vlaanderen) publishes a large part of the Watina groundwater data.
+  - Groundwater and surface water level
+  - Groundwater quality
+  - Metadata of in-situ equipment at groundwater sites
+  - Metadata of in-situ equipment at surface water sites
+
+Data stored on the INBO servers is held in either the INBO Google Drive system or various SQL-based databanks. 
+Access to these systems is limited to INBO staff and can be further restricted to specific people if necessary.
+
+
+## Restrictions
 
 > Are there any restrictions on making the data publicly available?
 
+It is likely that there will be restrictions on some of the data/datasets, but this is not yet clear.
+This section will be updated accordingly when appropriate.
+
+## Publication
+
 > How will the data be made publicly available? (If this is not yet the case)
+
+Data will be published through various resources, including but not limited to GitHub, Zenodo and other paths (e.g. web API).
+What usage-licenses are applicable to each dataset is not yet entirely clear, these will be listed in this DMP under dataset descriptions when they are known.
+What the specifics are regarding publication of the data will be addressed separately for each dataset and detailed in this DMP when known.
+
 
 
 > What is the estimated timeline/roadmap for publication?
+*(new paragraph)*

@@ -2,3 +2,19 @@
 
 
 > Link(s) to existing information/documentation on the dataset
+
+
+## Watina Database
+The data system can be found at: <https://watina.inbo.be/>
+Technical database information is available at: <https://www.milieuinfo.be/confluence/display/INBODEV/Watina+DWH+W0002>
+The database is accessed using R packages `watina`, `inbodb`, `DBI` and `dbplyr`, and Python package `SQLAlchemy`.
+
+## AquaChem Database
+The database is accessed using R packages `inbodb`, `DBI` and `dbplyr`, and Python package `SQLAlchemy`.
+
+## INBOdem Database
+The database is accessed using R packages `inbodb`, `DBI` and `dbplyr`, and Python package `SQLAlchemy`.
+
+## Github
+Repositories are under construction
+<https://github.com/inbo/n2khab-monitoring>
