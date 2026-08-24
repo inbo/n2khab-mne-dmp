@@ -7,13 +7,13 @@
 Certain datasets are already publicly available, where this is the case it has been noted previously under the dataset descriptions.
 In general, the following sources/datasets are already publicly available:
 
-- DOV (Databank Ondergrond Vlaanderen) publishes a large part of the Watina groundwater data.
+- DOV (Databank Ondergrond Vlaanderen) publishes a large part of the WATINA groundwater data.
   - Groundwater and surface water level
   - Groundwater quality
   - Metadata of in-situ equipment at groundwater sites
   - Metadata of in-situ equipment at surface water sites
 
-Data stored on the INBO servers is held in either the INBO Google Drive system or various SQL-based databanks. 
+Data stored on the INBO servers is held in either the INBO Google Drive system or various SQL-based databases. 
 Access to these systems is limited to INBO staff and can be further restricted to specific people if necessary.
 
 
@@ -37,4 +37,7 @@ What the specifics are regarding publication of the data will be addressed separ
 
 > What is the estimated timeline/roadmap for publication?
 
-*(new paragraph)*
+*(new paragraph)* `QUESTION`
+In line with the [Open Data and Open Science goals of INBO](https://www.inbo.be/inbo/onderzoeksdomeinen/data-infrastructuur/open-data-en-open-science/), we strive to publish all data as soon as possible.
+However, our resources are limited and largely bound by the dynamic situation of the projects' start-up.
+As an initial goal, we plan to publish datasets as soon as they are subject to a reporting iteration, and commit to keeping them up to date with the time cycle of our reporting duties.

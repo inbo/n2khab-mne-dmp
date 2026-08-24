@@ -32,6 +32,8 @@ The writing and updating process is a collaborative procedure, which can be foll
 |         |               | - addition dataset "Fieldwork Organization and Auxiliary Data"                                |
 |         |               | - consolidated "Explanatory Observations/Context SURF" from surface water levels and metadata |
 |         |               | - assembled brief explanatory paragraphs for all data sets                                    |
+|         |               | - add MNE databases to "Integration"                                                          |
+|         |               | - list software dependencies                                                                  |
 |  v1.0   |    2025-01-14 | - initial version                                                                             |
 : Version History {#tbl-versions}
 

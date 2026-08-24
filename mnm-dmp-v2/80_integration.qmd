@@ -1,10 +1,9 @@
 # Integration {#sec-integration}
 
-
 > Link(s) to existing information/documentation on the dataset
 
 
-## Watina Database
+## WATINA Database
 The data system can be found at: <https://watina.inbo.be/>
 Technical database information is available at: <https://www.milieuinfo.be/confluence/display/INBODEV/Watina+DWH+W0002>
 The database is accessed using R packages `watina`, `inbodb`, `DBI` and `dbplyr`, and Python package `SQLAlchemy`.
@@ -15,6 +14,19 @@ The database is accessed using R packages `inbodb`, `DBI` and `dbplyr`, and Pyth
 ## INBOdem Database
 The database is accessed using R packages `inbodb`, `DBI` and `dbplyr`, and Python package `SQLAlchemy`.
 
+## MNE Databases
+Project-specific data flows are captured in dedicated postgreSQL databases.
+There are multiple, task-specific databases, which also serve as backends for QGIS and QField applications.
+Documentation is available on the `n2khab-mne-monitoring` repository: <https://github.com/inbo/n2khab-mne-monitoring/tree/main/990_database_documentation>.
+
+Additional documentation on objects derived from the Revisit Plan (REP) are [available on the `mnedesigndata` reference](https://inbo.github.io/mnedesigndata/reference/).
+
+
 ## Github
-Repositories are under construction
-<https://github.com/inbo/n2khab-monitoring>
+
+Essentially all development on the MNE project tooling is permanently synchronized via [git](https://git-scm.com) and stored on "github" online repositories.
+
+- a complete linked list of repositories for this project and the associated Monitoring programme for biotic Habitat Quality (MHQ) is available here: <https://github.com/inbo/n2khab-monitoring>
+- development on procedures of sample design and revisit planning are found here: <https://github.com/inbo/n2khab-mne-designs>
+- analyses and tools for the support of monitoring efforts, and development on the MNE database and database tools in particular, can be followed here: <https://github.com/inbo/n2khab-mne-monitoring>
+

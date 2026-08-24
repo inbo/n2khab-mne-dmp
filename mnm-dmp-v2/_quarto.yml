@@ -57,6 +57,7 @@ book:
     - 02_datasets.qmd
     - 10_dataset_specificities.qmd
     - 80_integration.qmd
+    - 81_software_dependencies.qmd
     - 91_interoperability.qmd
     - 92_accessibility.qmd
     - 93_storage.qmd

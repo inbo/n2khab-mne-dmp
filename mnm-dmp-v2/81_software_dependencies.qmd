@@ -1,0 +1,42 @@
+# Software Dependencies
+
+For recurrent work routines, MNE data is processed and accessed via the following software tools.
+
+## R
+
+Scripted programming on various components of the MNE datasets happens in [the R programming language](https://www.r-project.org).
+We rely on a variety of libraries, e.g. the `tidyverse` for general data processing, `sf` and `terra` for geographical processing, and `DBI` for database access.
+
+
+## Python
+
+A few scripts for database tooling have been created in [Python](https://www.python.org).
+These are currently of minor relevance and could be reproduced in R; the reasen for using Python over R were purely situational.
+
+
+## GIS system libraries
+For computations related to geographic information systems (GIS), there are a couple of backends which are commonly accessed by or shipped with the other software tools in this list.
+Those are:
+
+- [`proj`](https://proj.org): coordinate reference system transformations
+- [`geos`](https://libgeos.org): GIS algorithms implemented in C/C++
+- [`gdal`](https://gdal.org): GIS data I/O
+
+
+## PostgreSQL and PostGIS
+
+The MNE databases run on a [postgreSQL server](https://www.postgresql.org), a free and open source database server program.
+[PostGIS](https://postgis.net) is an extension for postgreSQL which adds geographic data types. 
+
+PostgreSQL databases can be accessed and managed through various interfaces.
+There are rather raw, direct control tools (e.g. [`pgAdmin`](https://www.pgadmin.org)); access from R or Python is possible, and we can directly connect QGIS map layers to the database.
+
+
+## QGIS/QField
+
+[QGIS](https://qgis.org) is a GIS manager which allows users to work on predefined map layers, entering and manipulating attributes (data fields) on features (geographic units).
+[QField](https://qfield.org) is a mobile-centric derivative of QGIS, which has a rich set of usability features for capturing data via mobile phones or tablets.
+Projects created in QGIS can easily be exported as packages for use in QField.
+
+Both QGIS and QField integrate well with a postgreSQL database backand, but other map layers can be distributed with the projects.
+
