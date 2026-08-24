@@ -36,6 +36,10 @@ quarto render <subfolder>
 + potentially add RSE, STAT and MO's as authors
 
 
+## `_quarto.yml`
++ adjust date and title.version 
+
+
 ## index
 add DOI if possible
 

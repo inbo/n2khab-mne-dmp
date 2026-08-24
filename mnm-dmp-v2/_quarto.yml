@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "DMP for MNE - Monitoring Programme for the Natural Environment"
+  title: "DMP for MNE - Monitoring Programme for the Natural Environment (v2.0)"
   author:
 
     - name:
