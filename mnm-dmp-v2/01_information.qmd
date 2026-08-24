@@ -28,6 +28,7 @@ The writing and updating process is a collaborative procedure, which can be foll
 | Version |          Date | Changes                                                        |
 |:-------:|--------------:|:---------------------------------------------------------------|
 |  v2.0   | *in progress* | - migrate from DMPOnline to git + quarto                       |
+|         |               | - addition dataset "Protocols"                                 |
 |         |               | - addition dataset "Fieldwork Organization and Auxiliary Data" |
 |  v1.0   |    2025-01-14 | - initial version                                              |
 : Version History {#tbl-versions}
