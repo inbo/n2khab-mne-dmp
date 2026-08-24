@@ -1,4 +1,4 @@
-## Fieldwork Organization and Co-ordination {#sec-ds-fieldworkapps}
+## Fieldwork Organization and Co-ordination {#sec-ds-fieldworkorga}
 
 One outcome of the Revisit Plan (REP, @sec-ds-rep) is a calender with planned activities per time period (e.g. monthly or quarterly).
 The function of this calender is to lead and co-ordinate efforts such as location evaluation, fieldwork, or laboratory analysis.

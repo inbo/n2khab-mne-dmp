@@ -49,7 +49,8 @@ add DOI if possible
 + `datasets/010_fieldassessment.qmd` is that loceval?
 + `datasets/020_samplingframe.qmd` headline sounds "REP", but description says "loceval"
 + is ANB still involved? (datasets `010_fieldassessment.qmd` and `020_samplingframe.qmd`)
-
 + new: Fieldwork Organization and Auxiliary Data
++ `datasets/110_sampleunit_attributes.qmd` distinction from fieldwork apps? publication ambitions?
+
 + ++ protocols?
 + split surface water level (RTK) from groundwater level? -> yes, rework
