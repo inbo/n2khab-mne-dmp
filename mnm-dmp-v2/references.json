@@ -1,58 +1,11 @@
 [
-	{
-		"id": "Dumelle2022",
-		"type": "article-journal",
-		"abstract": "Abstract\n            \n              \n                \n                  The design‐based and model‐based approaches to frequentist statistical inference rest on fundamentally different foundations. In the design‐based approach, inference relies on random sampling. In the model‐based approach, inference relies on distributional assumptions. We compare the approaches in a finite population spatial context.\n                \n                \n                  We provide relevant background for the design‐based and model‐based approaches and then study their performance using simulated data and real data. The real data are from the United States Environmental Protection Agency's 2012 National Lakes Assessment. A variety of sample sizes, location layouts, dependence structures, and response types are considered. The population mean is the parameter of interest, and performance is measured using statistics like bias, squared error and interval coverage.\n                \n                \n                  When studying the simulated and real data, we found that regardless of the strength of spatial dependence in the data, the generalized random tessellation stratified (GRTS) algorithm, which explicitly incorporates spatial locations into sampling, tends to outperform the simple random sampling (SRS) algorithm, which does not explicitly incorporate spatial locations into sampling. We also found that model‐based inference tends to outperform design‐based inference, even for skewed data where the model‐based distributional assumptions are violated. The performance gap between design‐based inference and model‐based inference is small when GRTS samples are used but large when SRS samples are used, suggesting that the sampling choice (whether to use GRTS or SRS) is most important when performing design‐based inference.\n                \n                \n                  There are many benefits and drawbacks to the design‐based and model‐based approaches for finite population spatial sampling and inference that practitioners must consider when choosing between them. We provide relevant background contextualizing each approach and study their properties in a variety of scenarios, making recommendations for use based on the practitioner's goals.",
-		"citation-key": "Dumelle2022",
-		"container-title": "Methods in Ecology and Evolution",
-		"DOI": "10.1111/2041-210X.13919",
-		"ISSN": "2041-210X, 2041-210X",
-		"issue": "9",
-		"journalAbbreviation": "Methods Ecol Evol",
-		"language": "en",
-		"page": "2018-2029",
-		"source": "DOI.org (Crossref)",
-		"title": "A comparison of design‐based and model‐based approaches for finite population spatial sampling and inference",
-		"URL": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13919",
-		"volume": "13",
-		"author": [
-			{
-				"family": "Dumelle",
-				"given": "Michael"
-			},
-			{
-				"family": "Higham",
-				"given": "Matt"
-			},
-			{
-				"family": "Ver Hoef",
-				"given": "Jay M."
-			},
-			{
-				"family": "Olsen",
-				"given": "Anthony R."
-			},
-			{
-				"family": "Madsen",
-				"given": "Lisa"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2026",
-					2,
-					5
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2022",
-					9
-				]
-			]
-		}
-	}
+  {"id":"brus_method_2003","accessed":{"date-parts":[["2018",4,4]]},"author":[{"family":"Brus","given":"D. J."},{"family":"Gruijter","given":"J. J."}],"citation-key":"brus_method_2003","container-title":"Environmental Monitoring and Assessment","DOI":"10.1023/A:1022618406507","ISSN":"0167-6369, 1573-2959","issue":"3","issued":{"date-parts":[["2003",4,1]]},"language":"en","page":"303–317","source":"link.springer.com","title":"A Method to Combine Non-probability Sample Data with Probability Sample Data in Estimating Spatial Means of Environmental Variables","type":"article-journal","URL":"https://link.springer.com/article/10.1023/A:1022618406507","volume":"83"},
+  {"id":"Dumelle2022","abstract":"Abstract\n            \n              \n                \n                  The design‐based and model‐based approaches to frequentist statistical inference rest on fundamentally different foundations. In the design‐based approach, inference relies on random sampling. In the model‐based approach, inference relies on distributional assumptions. We compare the approaches in a finite population spatial context.\n                \n                \n                  We provide relevant background for the design‐based and model‐based approaches and then study their performance using simulated data and real data. The real data are from the United States Environmental Protection Agency's 2012 National Lakes Assessment. A variety of sample sizes, location layouts, dependence structures, and response types are considered. The population mean is the parameter of interest, and performance is measured using statistics like bias, squared error and interval coverage.\n                \n                \n                  When studying the simulated and real data, we found that regardless of the strength of spatial dependence in the data, the generalized random tessellation stratified (GRTS) algorithm, which explicitly incorporates spatial locations into sampling, tends to outperform the simple random sampling (SRS) algorithm, which does not explicitly incorporate spatial locations into sampling. We also found that model‐based inference tends to outperform design‐based inference, even for skewed data where the model‐based distributional assumptions are violated. The performance gap between design‐based inference and model‐based inference is small when GRTS samples are used but large when SRS samples are used, suggesting that the sampling choice (whether to use GRTS or SRS) is most important when performing design‐based inference.\n                \n                \n                  There are many benefits and drawbacks to the design‐based and model‐based approaches for finite population spatial sampling and inference that practitioners must consider when choosing between them. We provide relevant background contextualizing each approach and study their properties in a variety of scenarios, making recommendations for use based on the practitioner's goals.","accessed":{"date-parts":[["2026",2,5]]},"author":[{"family":"Dumelle","given":"Michael"},{"family":"Higham","given":"Matt"},{"family":"Ver Hoef","given":"Jay M."},{"family":"Olsen","given":"Anthony R."},{"family":"Madsen","given":"Lisa"}],"citation-key":"Dumelle2022","container-title":"Methods in Ecology and Evolution","container-title-short":"Methods Ecol Evol","DOI":"10.1111/2041-210X.13919","ISSN":"2041-210X, 2041-210X","issue":"9","issued":{"date-parts":[["2022",9]]},"language":"en","page":"2018–2029","source":"DOI.org (Crossref)","title":"A comparison of design‐based and model‐based approaches for finite population spatial sampling and inference","type":"article-journal","URL":"https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13919","volume":"13"},
+  {"id":"edwards_issues_1998","accessed":{"date-parts":[["2018",10,15]]},"author":[{"family":"Edwards","given":"Don"}],"citation-key":"edwards_issues_1998","container-title":"Ecological Applications","DOI":"10.1890/1051-0761(1998)008[0323:IATFNR]2.0.CO;2","ISSN":"1939-5582","issue":"2","issued":{"date-parts":[["1998",5,1]]},"language":"en","page":"323–325","source":"Wiley Online Library","title":"Issues and Themes for Natural Resources Trend and Change Detection","type":"article-journal","URL":"https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%281998%29008%5B0323%3AIATFNR%5D2.0.CO%3B2","volume":"8"},
+  {"id":"manly_sampling_2014","author":[{"family":"McDonald","given":"Trent"}],"citation-key":"manly_sampling_2014","container-title":"Introduction to Ecological Sampling (Chapman & Hall/CRC Applied Environmental Statistics)","editor":[{"family":"Manly","given":"Bryan F.J."},{"family":"Navarro Alberto","given":"Jorge A."}],"issued":{"date-parts":[["2014",10]]},"page":"145–165","publisher":"CRC Press","title":"Sampling Designs for Environmental Monitoring","type":"chapter","volume":"1"},
+  {"id":"mcdonald_review_2003","accessed":{"date-parts":[["2018",8,6]]},"author":[{"family":"McDonald","given":"Trent L."}],"citation-key":"mcdonald_review_2003","container-title":"Environmental Monitoring and Assessment","DOI":"10.1023/A:1023954311636","ISSN":"0167-6369, 1573-2959","issue":"3","issued":{"date-parts":[["2003",7,1]]},"language":"en","page":"277–292","source":"link.springer.com","title":"Review of Environmental Monitoring Methods: Survey Designs","title-short":"Review of Environmental Monitoring Methods","type":"article-journal","URL":"https://link.springer.com/article/10.1023/A:1023954311636","volume":"85"},
+  {"id":"olsen_statistical_1999","accessed":{"date-parts":[["2018",11,5]]},"author":[{"family":"Olsen","given":"Anthony R."},{"family":"Sedransk","given":"Joseph"},{"family":"Edwards","given":"Don"},{"family":"Gotway","given":"Carol A."},{"family":"Liggett","given":"Walter"},{"family":"Rathbun","given":"Stephen"},{"family":"Reckhow","given":"Kenneth H."},{"family":"Yyoung","given":"Linda J."}],"citation-key":"olsen_statistical_1999","container-title":"Environmental Monitoring and Assessment","DOI":"10.1023/A:1005823911258","ISSN":"1573-2959","issue":"1","issued":{"date-parts":[["1999",1,1]]},"language":"en","page":"1–45","source":"Springer Link","title":"Statistical Issues for Monitoring Ecological and Natural Resources in the United States","type":"article-journal","URL":"https://doi.org/10.1023/A:1005823911258","volume":"54"},
+  {"id":"onkelinx_ontwerp_2008","author":[{"family":"Onkelinx","given":"Thierry"},{"family":"Verschelde","given":"Pieter"},{"family":"Wouters","given":"Jasper"},{"family":"Bauwens","given":"Dirk"},{"family":"Quataert","given":"Paul"}],"citation-key":"onkelinx_ontwerp_2008","collection-title":"Rapporten van het Instituut voor Natuur- en Bosonderzoek","ISBN":"978-90-403-0281-7","issued":{"date-parts":[["2008"]]},"publisher":"Vlaamse Overheid, Departement Leefmilieu, Natuur en Energie & Institituut voor Natuur- en Bosonderzoek","title":"Ontwerp en evaluatie van meetnetten voor het milieu- en natuurbeleid. Steekproefgrootteberekeningen en analyse van de kosteneffectiviteit","type":"book"},
+  {"id":"onkelinx_thierry_2019_2682323","author":[{"family":"Onkelinx","given":"Thierry"},{"family":"Westra","given":"Toon"},{"family":"Vanderhaeghe","given":"Floris"}],"citation-key":"onkelinx_thierry_2019_2682323","DOI":"10.5281/zenodo.2682323","issued":{"date-parts":[["2019",5]]},"publisher":"Zenodo","title":"GRTS master sample for habitat monitoring in Flanders","type":"dataset","URL":"https://doi.org/10.5281/zenodo.2682323"},
+  {"id":"stevens_spatially_2004","author":[{"family":"Stevens","given":"Don L."},{"family":"Olsen","given":"Anthony R."}],"citation-key":"stevens_spatially_2004","container-title":"Journal of the American Statistical Association","DOI":"10.1198/016214504000000250","ISSN":"0162-1459","issue":"465","issued":{"date-parts":[["2004",3,1]]},"page":"262–278","source":"Taylor and Francis+NEJM","title":"Spatially Balanced Sampling of Natural Resources","type":"article-journal","URL":"https://doi.org/10.1198/016214504000000250","volume":"99"}
 ]

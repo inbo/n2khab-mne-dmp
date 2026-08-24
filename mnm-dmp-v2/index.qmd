@@ -14,15 +14,17 @@ Contact information of the authors is listed in @sec-contact.
 
 ## List of Abbreviations
 
-|        |                                                                                       |
-|--------|---------------------------------------------------------------------------------------|
-| API    | Application Programming Interface                                                     |
-| DMP    | Data Management Plan                                                                  |
-| DOV    | Databank Ondergrond Vlaanderen                                                        |
-| INBO   | *nl.* Instituut Natuur- en Bosonderzoek / Research Institute for Nature and Forest    |
-| MNE    | Monitoring Programme for the Natural Environment                                      |
-| MNM    | *nl.* Meetnetten Natuurlijk Milieu / Monitoring Programme for the Natural Environment |
-| SQL    | Structured Query Language                                                             |
-| TBD    | To Be Decided/Determined/Discussed                                                    |
-| WATINA | *nl.* WATer In NAtuur / WATer In NAture (a database)                                  |
+|        |                                                                                        |
+|--------|----------------------------------------------------------------------------------------|
+| API    | Application Programming Interface                                                      |
+| DMP    | Data Management Plan                                                                   |
+| DOV    | Databank Ondergrond Vlaanderen                                                         |
+| GRTS   | Generalized Random Tessellation Stratified sampling (*a method of spatially balanced sampling*) |
+| INBO   | *nl.* Instituut Natuur- en Bosonderzoek / Research Institute for Nature and Forest     |
+| MNE    | Monitoring Programme for the Natural Environment                                       |
+| MNM    | *nl.* Meetnetten Natuurlijk Milieu / Monitoring Programme for the Natural Environment  |
+| REP    | REvisit Planning                                                                       |
+| SQL    | Structured Query Language                                                              |
+| TBD    | To Be Decided/Determined/Discussed                                                     |
+| WATINA | *nl.* WATer In NAtuur / WATer In NAture (a database)                                   |
 
