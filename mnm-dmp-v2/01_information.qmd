@@ -2,8 +2,16 @@
 
 ## Title
 
-DMP for MNE - Monitoring Programme for the Natural Environment / DMP voor MNM - Meetnetten Natuurlijk Milieu
 
+:::{.panel-tabset group="languages"}
+
+### EN {.unnumbered} 
+DMP for MNE - Monitoring Programme for the Natural Environment
+
+### NL {.unnumbered}
+DMP voor MNM - Meetnetten Natuurlijk Milieu
+
+:::
 
 ## Language
 
@@ -14,7 +22,7 @@ English (with certain elements also detailed in Dutch)
 
 The current version is Version 2.0. 
 Previous versions are listed in [Table @tbl-versions].
-The writing process is a collaborative procedure, which can be followed in the `git` repository <https://github.com/inbo/n2khab-mne-dmp>.
+The writing and updating process is a collaborative procedure, which can be followed in the `git` repository <https://github.com/inbo/n2khab-mne-dmp>.
 
 
 | Version |          Date | Changes                                  |

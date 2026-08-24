@@ -1,4 +1,7 @@
-## Field assessment data from Natura 2000 habitat monitoring {#sec-ds-fieldassessments}
+## Field Assessment Data from Natura 2000 Habitat Monitoring {#sec-ds-fieldassessments}
+
+Prior to implementing any monitoring measures of the natural environment of Natura 2000 habitats, it is essential to confirm that the expected habitat type is present or absent at the target location.
+Part of the MNE project is therefore contribution to existing location evaluation efforts, with the focus on sites selected for abiotic sampling.
 
 - Numerical
 - New/Primary dataset

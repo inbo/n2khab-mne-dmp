@@ -19,7 +19,7 @@
 
 ## General Considerations
 
-- Whether there are sensitivity/ethical/legal concerns with the datasets is not yet clear [*TBD*].
+- Whether there are sensitivity/ethical/legal concerns in any of the datasets is not yet clear [*TBD*].
 - All datasets are planned to be published openly as soon as possible, the specifics for each dataset and type of data are still to be decided [*TBD*].
 
 
