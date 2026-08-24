@@ -1,0 +1,12 @@
+## Explanatory Attributes of Sample Units {#sec-ds-sampleunit-attributes}
+
+- Numerical; Text (English)
+- New/Primary dataset comprising explanatory variables at sample unit level collected through GIS analyses or in the field for data analysis and interpretation
+- Collection expected to run from 2025 to 2050 and exclusively carried out by INBO
+- Expected to include ongoing/continuous data revision/addition and yearly updating of dataset until (at least) 2050.
+- Data are updated frequently (e.g. daily) in the production environment; format and workflow TBD (ideally an open SQL database).
+- Backup strategy: monthly data dumps to cloud storage such as Google Drive, and to local digital storage (physical hard drives).
+- Publishing strategy: releases are made less frequently (e.g. yearly) to Zenodo. This process may be facilitated by GitHub.
+- Version control will be implemented continuously in between published releases, using git.
+- Data management responsibilities rest with INBO.
+

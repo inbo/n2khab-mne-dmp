@@ -5,6 +5,7 @@
 - Field assessment data from Natura 2000 habitat monitoring (@sec-ds-fieldassessments)
 - Sampling frame for Natura 2000 habitat monitoring (@sec-ds-samplingframe)
 - Design attributes of spatiotemporal sample units (@sec-ds-rep)
+- Fieldwork organization and co-ordination (@sec-ds-fieldworkapps)
 - Explanatory attributes of sample units (@sec-ds-sampleunit-attributes)
 - Groundwater Level (@sec-ds-gw-levels)
 - Surface Water Level (@sec-ds-surf-levels)

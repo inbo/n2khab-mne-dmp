@@ -21,6 +21,7 @@ Contact information of the authors is listed in @sec-contact.
 | DOV    | Databank Ondergrond Vlaanderen                                                         |
 | GRTS   | Generalized Random Tessellation Stratified sampling (*a method of spatially balanced sampling*) |
 | INBO   | *nl.* Instituut Natuur- en Bosonderzoek / Research Institute for Nature and Forest     |
+| LIMS   | Laboratory Information Management System                                               |
 | MNE    | Monitoring Programme for the Natural Environment                                       |
 | MNM    | *nl.* Meetnetten Natuurlijk Milieu / Monitoring Programme for the Natural Environment  |
 | REP    | REvisit Planning                                                                       |
