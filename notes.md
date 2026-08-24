@@ -51,6 +51,7 @@ add DOI if possible
 + is ANB still involved? (datasets `010_fieldassessment.qmd` and `020_samplingframe.qmd`)
 + new: Fieldwork Organization and Auxiliary Data
 + `datasets/110_sampleunit_attributes.qmd` distinction from fieldwork apps? publication ambitions?
++ `datasets/310_surfacewater_quality.qmd` are the site/observation estimates still accurate?
 
-+ ++ protocols?
++ ++ protocols
 + split surface water level (RTK) from groundwater level? -> yes, rework
