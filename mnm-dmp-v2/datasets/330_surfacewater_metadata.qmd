@@ -1,10 +1,36 @@
-## Metadata of in-situ equipment at surface water sites {#sec-ds-surf-meta}
+## Explanatory Observations in the Context of Surfacewater Sampling {#sec-ds-surf-context}
+
+Part of the field protocols for surface water sample collection is a rather extensive list of explanatory observations. 
+These cover different scales and ranges in relation to the sampling.
+
+- Exact sampling location ("sampling point") is chosen, trying to keep consistency over time.
+- Influential factors at that point (e.g. presence of floating vegetation) are recorded.
+- Control measurements on the sampled water are acquired (e.g. physicochemical measurements such as acidity or conductivity, but also presence of macroinvertebrates or algae).
+- Characteristics of the aquatic sample unit must be described (e.g. coverage, connectivity, depth).
+- Perturbations and potential causes for abnormal measurements are registered, e.g. extreme weather events prior to sampling, anthropogenic influence (industry, transport routes, agriculture in the vicinity of the sample unit). 
+
+Noteworthy examples for potential co-variates of water chemistry are the water level at sampling occasions (measured with an RTK GPS) and photosynthetic activity in the water (proxy: Chlorophyll content).
+
+
+All these observations are captured directly via the QGIS/QField interface to the MNE database server with dedicated field forms which implement the activity-specific protocols.
+Procedures are in line with the efforts of other teams at INBO (in particular team "Freshwater Habitats"), and we strive to  directly contribute MNE data to established data repositories and databases (which are not publicly accessible at the moment).
+
+:::{.callout-warning title="work in progress"}
+At the time of writing (09/2026), field protocols and database structure are under development and subject to frequent change.
+:::
+
+:::{.callout-note title="git repository"}
+The structure of the MNE database, documentation, as well as initialization and maintenance scripts are available on the git repository <https://github.com/inbo/n2khab-mne-monitoring>.
+:::
+
+
 
 - Numerical; Text (English)
-- Adding new data to an existing dataset (the Aqua Chem and Watina SQL Server database). Data are updated frequently (e.g. daily). Added data is verified.
-- Includes properties of in-situ equipment for interpretation & equipment management, such as spatial position (3D) of the water level gauge.
+- Includes new, regular observations which might be of use for other projects and purposes, such as measuring water level as an altitude with a high accuracy RTK-GPS device.
+- Contributing new data to an existing dataset (the AquaChem). Data are updated frequently (e.g. daily). Added data is verified.
+- Storing additional data in the MNE databases; updated directly.
 - Collection expected to run from 2026 to 2050 and exclusively by INBO
-- Backup strategy: monthly data dumps to cloud storage such as Google Drive, and to local digital storage (physical hard drives).
+- Backup strategy: nightly automatic dumps and storage of reversible "patches" to allow retro-inspection of data; regular (~daily) backup to cloud storage such as Google Drive, and to local digital storage (physical hard drives).
 - Publishing strategy: planned to be published openly as soon as possible. Releases are made less frequently (e.g. yearly) to Zenodo.
-- Expected to include ongoing/continuous data revision/addition and yearly updating of dataset until (at least) 2050.
+- Started 2026; expected to include ongoing/continuous data revision/addition and yearly updating of dataset until (at least) 2050.
 

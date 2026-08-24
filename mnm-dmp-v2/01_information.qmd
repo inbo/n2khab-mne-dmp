@@ -25,12 +25,14 @@ Previous versions are listed in [Table @tbl-versions].
 The writing and updating process is a collaborative procedure, which can be followed in the `git` repository <https://github.com/inbo/n2khab-mne-dmp>.
 
 
-| Version |          Date | Changes                                                        |
-|:-------:|--------------:|:---------------------------------------------------------------|
-|  v2.0   | *in progress* | - migrate from DMPOnline to git + quarto                       |
-|         |               | - addition dataset "Protocols"                                 |
-|         |               | - addition dataset "Fieldwork Organization and Auxiliary Data" |
-|  v1.0   |    2025-01-14 | - initial version                                              |
+| Version |          Date | Changes                                                                                       |
+|:-------:|--------------:|:----------------------------------------------------------------------------------------------|
+|  v2.0   | *in progress* | - migrate from DMPOnline to git + quarto                                                      |
+|         |               | - addition dataset "Protocols"                                                                |
+|         |               | - addition dataset "Fieldwork Organization and Auxiliary Data"                                |
+|         |               | - consolidated "Explanatory Observations/Context SURF" from surface water levels and metadata |
+|         |               | - assembled brief explanatory paragraphs for all data sets                                    |
+|  v1.0   |    2025-01-14 | - initial version                                                                             |
 : Version History {#tbl-versions}
 
 

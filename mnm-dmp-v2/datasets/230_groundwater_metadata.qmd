@@ -1,4 +1,4 @@
-## Metadata of in-situ equipment at groundwater sites {#sec-ds-gw-meta}
+## Metadata of *in-situ* Equipment at Groundwater Sites {#sec-ds-gw-meta}
 
 The WATINA database also provides fields for some relevant, explanatory sample unit attributes.
 As a result, it is not necessary to also record that information via the MNE database.
