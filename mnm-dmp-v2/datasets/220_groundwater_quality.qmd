@@ -1,10 +1,21 @@
 ## Groundwater Quality {#sec-ds-gw-quality}
 
+Measurements of groundwater quality and chemical composition are a primary target variable of the scheme `GW_03.3` "eutrofication via groundwater".
+
+Groundwater samples are collected according to the REP calendar and transported for laboratory analysis at INBO facilities.
+Our INBO laboratory uses an information management system (LIMS) for co-ordination of the necessary analysis steps and provision of the results.
+Those results are copied to the WATINA database via nightly transaction scripts, where they are available for our analyses and for the public to query.
+
+:::{.callout-note title="WATINA web service"}
+The WATINA data is available to registered users via <https://watina.inbo.be>.
+:::
+
+
 - Numerical
-- Adding new, project-specific data to an existing dataset (the Watina SQL Server database). Data are updated frequently (e.g. daily). Added data is verified.
+- Adding new, project-specific data to an existing dataset (the WATINA SQL Server database; via LIMS). Data are updated frequently (e.g. daily). Added data is verified.
 - Expected to include 350 observations per year of around 15 measurement variables
-- Collection expected to run from 2025 to 2050 and exclusively by INBO.
-- Backup strategy: monthly data dumps to cloud storage such as Google Drive, and to local digital storage (physical hard drives).
+- Collection exclusively by INBO; since 2025, expected to run at least until 2050.
+- Backup strategy: responsibility with LIMS and WATINA database maintainers; additionally: monthly data dumps of MNM-specific data points and cloud storage such as Google Drive, and to local digital storage (physical hard drives).
 - Publishing strategy: planned to be published openly as soon as possible. Releases are made less frequently (e.g. yearly) to Zenodo.
 - Data management responsibilities rest with INBO.
 

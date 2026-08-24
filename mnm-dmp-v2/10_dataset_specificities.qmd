@@ -19,9 +19,9 @@
 
 {{< include datasets/230_groundwater_metadata.qmd >}}
 
-{{< include datasets/310_surfacewater_levels.qmd >}}
+{{< include datasets/310_surfacewater_quality.qmd >}}
 
-{{< include datasets/320_surfacewater_quality.qmd >}}
+{{< include datasets/320_surfacewater_levels.qmd >}}
 
 {{< include datasets/330_surfacewater_metadata.qmd >}}
 
