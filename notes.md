@@ -21,7 +21,7 @@ quarto render <subfolder>
 # TODO
 ## organizational
 
-+ license: (which) should we add to the repo?
++ license: (which) should we add to the repo? -> CC-BY 4.0
 + add this repo to <https://github.com/inbo/n2khab-monitoring>
 + primary/secondary data categorization
 + dynamic updates of and links to data storage and repositories

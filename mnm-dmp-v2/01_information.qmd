@@ -34,6 +34,7 @@ The writing and updating process is a collaborative procedure, which can be foll
 |         |               | - assembled brief explanatory paragraphs for all data sets                                    |
 |         |               | - add MNE databases to "Integration"                                                          |
 |         |               | - list software dependencies                                                                  |
+|         |               | - add license CC-BY 4.0                                                                       |
 |  v1.0   |    2025-01-14 | - initial version                                                                             |
 : Version History {#tbl-versions}
 
@@ -56,3 +57,7 @@ Het beschrijft ook de verschillende organisaties die betrokken zijn bij het proj
 
 :::
 
+## License
+`QUESTION`
+
+CC-BY 4.0
