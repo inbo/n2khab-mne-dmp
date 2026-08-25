@@ -5,7 +5,6 @@ book:
   title: "INBO DMP Template (v6.0)"
   date: "2026-09-01"
   author:
-
     - name:
         given: Tina Q.
         family: Ruffles
@@ -24,6 +23,7 @@ book:
       affiliations:
         - name: Research Institute for Nature and Forest (INBO)
           city: Brussels
+
   chapters:
     - index.qmd
     - 10_dmp_information.qmd
