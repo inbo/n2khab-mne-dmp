@@ -29,10 +29,9 @@ book:
     - 10_dmp_information.qmd
     - 20_project_information.qmd
     - 30_data_components.qmd
-    - 31_dataset_specifications.qmd
-    - 50_integration.qmd
-    - 51_software_dependencies.qmd
-    - 52_interoperability.qmd
+    #- 31_dataset_specifications.qmd
+    - 50_interoperability.qmd
+    # - 51_software_dependencies.qmd
     - 60_accessibility.qmd
     - 70_storage.qmd
     - 80_contact.qmd
