@@ -1,0 +1,276 @@
+# DMP Informatie {#sec-dmp-info}
+
+<!--
+
+Deze sectie geeft informatie over het DMP: de titel, het versienummer van het DMP, een korte beschrijving, ...
+Merk op dat dit niet informatie betreft over het project of de dataset(s), enkel informatie over dit document: het DMP zelf.
+
+-----------------------------------------------------------------------------
+
+DMP Information
+This section gives a short description of the DMP including the title and version of the DMP, what the DMP will describe, if there are any specific reasons for its creation, etc.
+Please note that this section is only about this DMP; details on the project and the dataset(s) belong in one of the following sections.
+
+-->
+
+
+## DMP Titel {#sec-dmp-title}
+
+
+:::{.panel-tabset group="languages"}
+
+### NL {.unnumbered}
+
+<!--
+
+De titel van het Data Management Plan (DMP), in het Nederlands.
+Gelieve een andere benaming te gebruiken dan voor het project of de dataset (of gerelateerde database/project).
+
+"DMP voor het VLEEMO project" is bvb. te prefereren boven "VLEEMO project/VLEEMO data" omdat dit het makkelijker maakt een onderscheid te maken tussen de info over het DMP en deze over het project en/of de dataset/database. Voeg aub de huidige template versie tussen hakjes aan het eind van de naam (de huidige template versie is tv2026.6)
+
+Gelieve een Nederlandse én een Engelse titel (volgende vraag) voor het DMP te geven - beide zullen gebruikt worden bij het PURE record.
+
+Let op: Het is niet de bedoeling dat het hele DMP in beide talen wordt geschreven, enkel de "DMP Titel" en "DMP beschrijving".
+
+---------------------------------------------------
+
+DMP Title (Dutch)
+
+A title for the Data Management Plan (DMP) in Dutch.
+Please use a different title for the DMP than the project or dataset (or reladed database/project).
+
+E.g. "DMP for the VLEEMO project" is preferred over "VLEEMO project/VLEEMO data" as this will make it easier to distinguish between information specific to the DMP and info on the project and/or database itself. Please add the current DMP template version in brackets at the end of the name (the current template version is tv2026.6).
+
+Please give both a Dutch and an English name (next question) for the DMP. These will both be used in the PURE-record.
+
+Please note: The entire DMP does not have to be written in both languages, only the "DMP Title" and "DMP description'. 
+
+-->
+
+DMP voor het Meetnetten Natuurlijk Milieu (MNM) project (tv2025.2)
+
+### EN {.unnumbered}
+
+<!--
+
+De titel van het Data Management Plan (DMP), in het Engels.
+Gelieve een andere benaming te gebruiken dan voor het project of de dataset (of gerelateerde database/project).
+
+"DMP voor het VLEEMO project" is bvb. te prefereren boven "VLEEMO project/VLEEMO data" omdat dit het makkelijker maakt een onderscheid te maken tussen de info over het DMP en deze over het project en/of de dataset/database.
+
+Gelieve een Nederlandse (vorige vraag) én een Engelse titel voor het DMP te geven - beide zullen gebruikt worden bij het PURE record.
+
+Let op: Het is niet de bedoeling dat het heel DMP in beide talen moet geschreven worden, enkel de "DMP Titel" en "DMP beschrijving".
+
+---------------------------------------------------
+
+DMP Title (English)
+
+A title for the Data Management Plan (DMP) in English.
+Please use a different title for the DMP than the project or dataset (or reladed database/project).
+
+E.g. "DMP for the VLEEMO project" is preferred over "VLEEMO project/VLEEMO data" as this will make it easier to distinguish between information specific to the DMP and info on the project and/or database itself.
+
+Please give both a Dutch (previous question) and an English name for the DMP. These will both be used in the PURE-record.
+
+Please note: The entire DMP does not have to be written in both languages, only the "DMP Title" and "DMP description'.
+
+-->
+
+
+DMP for the Natural Environment Monitoring Network (MNE) project (tv2025.2)
+
+:::
+
+
+
+## Taal {#sec-dmp-language}
+
+<!--
+Gelieve de hoofdtaal die in dit DMP wordt gebruikt te noteren.
+
+De guidance wordt zowel in het Nederlands als in het Engels gesteld, maar er wordt NIET verwacht dat u het hele DMP in beide talen schrijft.
+Behalve bij de "DMP Titel" en "DMP Beschrijving", is het beter om één taal te kiezen voor het hele DMP. Voor INBO projecten hanteren we standaard Nederlands.
+Als een andere taal ook nodig is, kunt u beter een aparte kopie van het DMP in die taal maken (d.w.z. één in het Nederlands en één in het Engels). Deze kunnen dan beiden worden geüpload naar hetzelfde PURE-record.
+
+Houd rekening met de werktaal of -talen voor het project, de data en eventuele onderzoekspartners of financiers, of het project internationaal, nationaal of lokaal is en of het DMP online moet worden gedeeld of niet.
+Het is altijd mogelijk om op een later moment een kopie van dit DMP in een andere taal te maken.
+
+---------------------------------------------------------
+
+DMP Language
+
+Please note the main language used in this DMP.
+
+The guidance is given in both Dutch and English, but it is NOT expected that you write the entire DMP in both languages.
+Except for the "DMP Title" and "DMP Description", it is better to choose one language for the entire DMP. For INBO projects, we normally use Dutch. If another language is also necessary, it is better to make a separate copy of the DMP in that language (ie. one in Dutch and another in English). These can then both be uploaded to the same PURE record.
+
+When deciding on the language, consider the working language(s) for the project, data and any research partners or funders, whether it is international, national or local and whether the DMP will need to be shared online or not.
+It is always possible to create a copy of this DMP in another language at a later point.
+
+For example answers in English, please see https://docs.google.com/document/d/1GtNZTd8WLyJBoEHL85jrtaCc8bgnIY3_65x-pabMsNU/edit?usp=sharing
+
+-->
+
+Nederlands | English
+
+
+## DMP Versie {#sec-dmp-version}
+
+### Huidige Versie
+<!--
+Gelieve de huidige versie van het DMP te noteren.
+
+Versiebeheer is een essentieel aspect van de transparantie van je onderzoek (en data).
+Het maakt het voor anderen (en je toekomstige zelf!) gemakkelijker om inzicht te krijgen in de huidige status van het onderzoek en de gegevens, en welke ontwikkelingen er hebben plaatsgevonden.
+
+---------------------------------------------------------
+
+DMP Version
+
+Please give the current version of the DMP.
+
+Versioning is crucial for the transparency of your research (and data).
+
+It also makes it much easier for others (including your future self!) to follow the developments in the project/dataset(s) over time and understand the current status of the same.
+
+-->
+
+DMP-versie: 1
+
+
+### DMP Versiegeschiedenis
+
+*(optioneel)*
+
+| Version |          Date | Changes                                                                                       |
+|:-------:|--------------:|:----------------------------------------------------------------------------------------------|
+|  v2.0   | *in progress* | - migrate from DMPOnline to git + quarto                                                      |
+|         |               | - addition dataset "Protocols"                                                                |
+|  v1.0   |    2025-01-14 | - initial version                                                                             |
+: Version History {#tbl-versions}
+
+### Finalisatiedatum
+
+<!--
+Gelieve de datums te geven van finalisatie van elke versie van het DMP.
+Zo wordt duidelijk welke versie van het DMP op welk moment geldig was en welke datum in het PURE-record moet worden ingevoerd.
+
+Omdat DMPonline nog geen versiebeheer functionaliteit heeft, moeten we dit handmatig beheren.
+
+---------------------------------------------------------
+
+DMP Finalisation dates
+
+Please give the dates on which each version of the DMP was finalised. This will clarify which version of the DMP was valid at what time and which date to enter in the PURE record.
+
+As DMPonline currently does not have a versioning function, we have to make new versions manually.
+
+-->
+
+Finalisatie-datum versie 2.0: 2025-01-17
+
+Finalisatie-datum versie 1.0: 2024-10-22
+
+
+
+## DMP Beschrijving - "Abstract" {#sec-dmp-abstract}
+
+:::{.panel-tabset group="languages"}
+
+### NL {.unnumbered}
+<!--
+
+Gelieve een korte beschrijving van het onderwerp en de scope van het Data Management Plan te geven, in het Nederlands. Waarom werd dit DMP (niet het project, de dataset!) opgesteld, over welk project/data, met welk doel, ...
+
+Geef deze beschrijving in Nederlands en Engels (volgende vraag) - beide zullen gebruikt worden bij het valideren van het PURE record.
+
+Denk eraan dat dit tekstvak niet bedoeld is om een beschrijving van het project of de dataset te geven. Dit kan in een van de volgende secties.
+
+---------------------------------------------------------
+
+DMP Description
+
+Please provide a brief description of topic and scope of the Data Management Plan, in Dutch - Why is it being created? What project, data etc., does it cover? Does it have a specific scope?
+
+Please give this description in both Dutch and English (next question). These will both be used when validating the record in PURE.
+
+Please note that this box is not intended for a description of the project or the dataset(s). This information can be provided in one of the following sections.
+-->
+
+Dit DMP wordt opgesteld om de belangrijkste datastromen van het project "Inventarisatie flora en vegetatie van de Golf van De Haan" (EVINBO) te capteren.
+
+### EN {.unnumbered}
+
+<!--
+
+Gelieve een korte beschrijving van het onderwerp en de scope van het Data Management Plan te geven, in het Engels. Waarom werd dit opgesteld, over welk project/data, met welk doel, ...
+
+Geef deze beschrijving in Nederlands (vorige vraag) en Engels - beide zullen gebruikt worden bij het valideren van het PURE record.
+
+Denk eraan dat dit tekstvak niet bedoeld is om een beschrijving van het project of de dataset te geven. Dit kan in een van de volgende secties.
+
+---------------------------------------------------------
+
+DMP Description (English)
+
+Please provide a brief description of topic and scope of the Data Management Plan, in English- Why is it being created? What project, data etc., does it cover? Does it have a specific scope?
+
+Please give this description in both Dutch (previous question) and English. These will both be used when validating the record in PURE.
+
+Please note that this box is not intended for a description of the project or the dataset(s). This information can be provided in one of the following sections.
+
+-->
+
+This DMP describes the main data flows for the "Inventory of the vegetation present in the 'Golf van De Haan'" (EVINBO) project.
+
+:::
+
+
+## DMP Gebruikslicentie {#sec-dmp-license}
+
+<!--
+
+Noteer hier de gebruikslicentie waaronder het gedeeld wordt. Dit helpt lezers te weten wat de gebruiksvoorwaarden zijn, bijvoorbeeld indien dit DMP gepubliceerd of verspreid wordt buiten INBO,
+
+De standaard gebruikslicentie bij INBO voor dit type document is 'CCBY'. Dit betekent dat het DMP vrij gedeeld kan worden, zolang de auteurs gecrediteerd worden en correct geciteerd worden. Als je een gebruikslicentie anders dan CCBY of CC0 kiest, leg dan uit waarom.
+Informatie over de verschillende gebruikslicenties vind je hier (interne link): https://sites.google.com/inbo.be/intranet-sep2021/ondersteuning/bibliotheek/licenties  en hier (externe link): https://creativecommons.org/share-your-work/cclicenses/
+
+---------------------------------------------------------
+
+Copyright License
+
+If this DMP is being published or spread beyond INBO, please note the use license that it is being shared under.
+
+The standard use licence at INBO for this type of document is 'CCBY' - This means that the DMP can be shared freely, as long as the authors are credited and properly cited. If you choose a use licence other than CCBY or CC0, please explain why.
+Information about the various use licenses can be found here (internal link):  https://sites.google.com/inbo.be/intranet-sep2021/ondersteuning/bibliotheek/licenties and here (external link): https://creativecommons.org/share-your-work/cclicenses/
+
+-->
+
+Gebruikslicentie: CCBY 4.0
+
+
+
+## DMP Bijlagen {#sec-dmp-attachments}
+
+<!--
+Gelieve alle bijlagen die bij dit DMP horen te vermelden.
+Binnen PURE moeten het record van dit DMP en de records van de bijlagen onder ‘Relations’ aan elkaar worden gekoppeld.
+
+De meest voorkomende bijlage is het StAP-plan(nen) dat (die) bij de in dit DMP beschreven datasets hoort (horen). Vergeet niet dat je je  StAP(s) vaak kan gebruiken om delen van je DMP in te vullen.
+
+Indien deze DMP wordt gepubliceerd, gelieve te dubbelchecken dat alle bijlagen open mogen staan. Indien niet, noteer een beknopte beschrijving van de bijlage en de reden waarom het niet open mag, in plaats van het toe te voegen.
+
+---------------------------------------------------
+
+Attachments to the DMP
+
+Please list all attachments which accompany this DMP.
+Within PURE, the record of this DMP and the records of the attachments should be linked under 'Relations'.
+
+The most common attachment is the StAP plan(s) which accompany the datasets described in this DMP. Remember that you can often use your StAP(s) to help fill in parts of your DMP.
+
+If this DMP will be published, please double check that all attachments may be openly shared. If not, give a short description of the attachment and the reason why it cannot be open instead of attaching it to the DMP.
+-->
+
+StAP plan versie 1 DOI: <https://doi.org/10.1002/0055-8319.78813>

@@ -1,0 +1,39 @@
+# Index {.unnumbered}
+
+<!--
+Please adjust the `_quarto.yml` file as follows:
+- adjust the title and date
+- list all authors in the given yaml format, cf. https://quarto.org/docs/journals/authors.html#author-metadata
+- customize output formats; cf. https://quarto.org/docs/books/book-output.html
+- you can also add or remove chapters.
+
+-->
+
+> This plan is based on the "INBO Minimal DMP Template versie 6" template provided by INBO - Research Institute for Nature and Forest.
+
+
+
+## Citation
+
+<!--
+Specify how you want this DMP to be cited.
+-->
+
+:::{.callout-tip title="Citation"}
+T. Ruffles, A. Break (2026)<br>
+**INBO DMP Template (v6.0).** <br>
+Instituut voor Natuur- en Bosonderzoek. <br>
+`<DOI>`
+:::
+
+Contact information of the authors is listed in @sec-contact.
+
+
+## List of Abbreviations
+
+|        |                                                                                                 |
+|--------|-------------------------------------------------------------------------------------------------|
+| DMP    | Data Management Plan                                                                            |
+| INBO   | *nl.* Instituut Natuur- en Bosonderzoek / Research Institute for Nature and Forest              |
+| TBD    | To Be Decided/Determined/Discussed                                                              |
+

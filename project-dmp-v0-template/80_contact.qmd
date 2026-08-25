@@ -1,0 +1,27 @@
+## Contact Information {#sec-contact}
+
+<!--
+
+Gelieve de namen, ORCID en mailadres van de auteurs (en editors, waar nodig) aan dit Data Management Plan in te vullen.
+Merk op dat dit niet noodzakelijk dezelfde personen zijn die betrokken zijn bij de projectcoördinatie, het beheer van de data, of verantwoordelijke wetenschapper(s) voor de dataset.
+Let op: Zorg dat deze zeker akkoord zijn met het weergeven van hun mailadres en ORCID, des te meer als het DMP wordt gedeeld buiten INBO of wordt gepubliceerd.
+
+Standaard wordt de eerste persoon beschouwd als contactpersoon voor vragen rond het DMP. Indien iemand anders wordt verantwoordelijk voor het updaten van het DMP (wanneer nodig), gelieve dit ook te noteren.
+
+---------------------------------------------------------
+
+DMP Authors
+
+Please provide the name, ORCID and email address of the authors (and editors, where necessary), of this Data Management Plan.
+Note that these are not necessarily the same as the project coordinator, the persons involved in data management or the business owners of the data.
+Please note: Check that all named people consent to have their email and ORCID listen in this DMP, especially if the DMP will be published and/or circulated beyond INBO.
+
+By default, the first author will be considered as "corresponding author" who can be contacted in case of questions about the DMP. If a different person will be responsible for updating this DMP when needed, please also note this here.
+
+-->
+
+
+| Voornaam | Achternaam | e-mailadres          | ORCID                                 |
+|----------|------------|----------------------|---------------------------------------|
+| Tina     | Ruffles    | tina.ruffles@inbo.be | https://orcid.org/0000-XXXX-XXXX-XXXX |
+| Amber    | Break      | ambere.break@inbo.be | https://orcid.org/XXXX-XXXX-XXXX-XXXX |

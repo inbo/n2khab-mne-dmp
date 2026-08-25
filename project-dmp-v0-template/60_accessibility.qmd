@@ -1,0 +1,96 @@
+
+# Toegankelijkheid en delen van de data {#sec-accessibility}
+
+<!--
+Details over de huidige en geplande beschikbaarheid van data en metadata en over plannen voor datapublicatie kunnen in deze sectie ingevuld worden.
+
+------------------------------------------------------------------------------------------------
+
+Data access and sharing
+
+Details on current and planned accessibility of data and any plans for data publication can be provided in this section.
+-->
+
+## Wat is de huidige toegankelijkheid van de data? {#sec-accessibility-current}
+
+<!--
+Gelieve te verduidelijken voor wie de dataset momenteel toegankelijk is, zowel voor interne als externe partijen.
+Kunnen deze data vrij geconsulteerd worden door INBO collega's, zijn deze beschikbaar op verzoek, publiek beschikbaar, is er gevoelige data dat enkel raadpleegbaar zijn door enkele medewerkers?
+Indien verschillend voor de datacomponenten, licht toe.
+
+---------------------------------------------------------
+
+Q - What is the current accessibility of the dataset?
+
+Please provide details on current data access level for internal and external parties.
+Can the data be freely consulted by INBO colleagues, is it available on request, publicly available, is there sensitive information that is only consultable by certain staff... ?
+Where this differs between data components, please describe.
+-->
+
+
+November 2019: Data worden samengebracht door de betrokken wetenschappers, momenteel hebben enkel projectmedewerkers en betrokkenen van team Databeheer toegang tot de data:
+
+Datacomponenten (1)-(2) en (a)(b): deze staan in de projectmap X.
+Datacomponent (3) dit is een centrale INBO-databank, beheerd door team Databeheer.
+Datacomponent (4) deze staat in de projectmap X, deze heeft CONFIDENTIAL in de titel staan en is enkel zichtbaar voor Tina Ruffles.
+
+
+## Zijn er beperkingen voor het open publiceren of delen van de data? {#sec-accessibility-restrictions}
+
+<!--
+Formuleer hier welke (mogelijke) uitzonderingen er zijn voor publieke ontsluiting van de gegevens; gevoelige data, persoonsgebonden data. Dit kan typisch het geval zijn als het gaat om persoonlijke of identificeerbare gegevens die onder de GDPR-regelgeving vallen. Data sharing agreements kunnen ook voorkomen dat gegevens openlijk worden gepubliceerd, hoewel INBO aanmoedigt om te proberen deze situatie te vermijden bij het maken van overeenkomsten met (externe) gegevensleveranciers.
+
+Zoals aangegeven in het INBO Opendatabeleid, "Alle wetenschappelijke data waar het INBO (mede)eigenaar van is, vallen onder dit beleid en kunnen als open data ontsloten worden, met toepassing van de wettelijke uitzonderingsgronden." en "Deze uitzonderingen worden toegepast op specifieke attributen van een dataset (bv. geografische coördinaten), nooit op de dataset als geheel, bij voorkeur door anonimiseren of reduceren van de precisie en worden gedocumenteerd in de metadata". Je kunt ook meer informatie vinden in het juridische rapport https://doi.org/10.21436/inbor.129026857.
+
+Bij twijfel, contacteer gerust datasteward@inbo.be
+
+---------------------------------------------------------
+
+Q - Are there any restrictions on making the data publicly available?
+
+Please describe potentially sensitive data and/or types of data records for which restrictions on public release may apply.
+This can typically be the case where personal or identifiable data that falls under GDPR regulations is concerned. Data sharing agreements can also prevent data being openly published, though INBO encourages trying to avoid this situation when making agreements with (external) data providers.
+
+As indicated in the INBO Open Data Policy, "All scientific data for which the (EV) INBO is (co-)owner are covered by this policy and can be published as open data, excluding legal exceptions." and "These exceptions are applied to specific attributes of a dataset (e.g. geospatial coordinates), never the dataset as a whole, preferably by anonymising or reducing precision, and are documented in the metadata". You can also find more information in the legal report https://doi.org/10.21436/inbor.129026857.
+
+If in doubt regarding this section, please contact datasteward@inbo.be
+-->
+
+
+Met datacomponent nummers:
+
+De locaties van gevoelige soorten (Rode lijst) dienen vervaagd te worden voor publieke ontsluiting.
+Waar er namen van vrijwilligers in de datasets staan, deze zullen verwijderd worden voor publicatie (behalve de individuen die er specifieke toestemming voor gegeven hebben).
+(3) zal nooit gepubliceerd worden, want deze bestaat uit privacygevoelige data.
+(2) mag enkel gepubliceerd worden met een CC-BY-SA licentie, ipv CC0. Dit is een gebruiksconditie van de databank.
+(4) zijn online beschikbaar via XXX, maar deze online dataset is vervaagd en geaggregeerd. In ons project, hebben we een gedetailleerde, granular versie van deze dataset gebruikt die van ANB afkomstig is. Volgens onze data transfer agreement met hen, kunnen we deze dataset niet publiceren.
+
+Zonder datacomponent nummers:
+
+Gevoelige soorten (Rode lijst) dienen vervaagd te worden voor publieke ontsluiting.
+Waar er namen van vrijwilligers in de datasets staan, deze zullen verwijderd worden voor publicatie (behalve de individuelen er specifieke toestemming voor gegeven hebben).
+Een databank van de vrijwilligers zal nooit gepubliceerd worden, want deze bestaat uit privacygevoelige data.
+Data van de XXX databank mag enkel gepubliceerd worden met een CC-BY-SA licentie, ipv CC0. Dit is een gebruiksconditie van de databank.
+Jager-records zijn online beschikbaar via XXX, maar deze online dataset is vervaagd en geaggregeerd. In ons project, hebben we een gedetailleerde, granular versie van deze dataset gebruikt die van ANB afkomstig is. Volgens onze data transfer agreement met hun, kunnen we deze dataset niet publiceren.
+
+
+
+## Hoe zullen de data gepubliceerd worden? (Als dit nog niet het geval is) {#sec-accessibility-publication}
+
+<!--
+Gelieve (indien de data nog niet publiek ontsloten is) aan te geven welke plannen/opties er zijn voor interne en publieke ontsluiting, mogelijke repositories en verantwoordelijken.
+
+---------------------------------------------------------
+
+Q - How will the data be made publicly available? (If this is not yet the case)
+
+If it is not already publicly available, please detail any plans for internal and public data release including timing, expected repositories and who the responsible person(s) is.
+-->
+
+
+Dataontsluiting van (5 & 6) via DOV wordt in de loop van 2020 verkend. Dit wordt opgevolgd door Amber Breach.
+(1) zal via GBIF gepubliceerd worden binnen een jaar van het afronden van het project en een link zal hier in een toekomstige update voorzien worden. Tina Ruffles is hiervoor verantwoordelijk.
+Een snapshot van (3) zal open op Movebank komen. Tina Ruffles is hiervoor verantwoordelijk.
+De metadata van (2, 4 & 5) zullen via PURE openbaar gemaakt worden.Tina Ruffles is hiervoor verantwoordelijk.
+
+

@@ -1,0 +1,40 @@
+
+# Interoperabiliteit {#sec-interoperability}
+<!--
+Indien van toepassing, kan u in deze sectie details opgeven over gebruikte datastandaarden, -afspraken en/of -conventies voor bvb. veldnamen, beschrijvingen, controlelijsten, ...
+Het helpt om vroeger in het project te overwegen welke data standaarden/conventies je later wil gebruiken - als je data van het begin is compatibel met je gekozen data standaard, bespaar je later vaak veel tijd.
+
+--------------------------------------------------------------------------------------------------
+
+Used data-standards or conventions
+
+If applicable, please use this section to provide details on the various data standards and/or conventions used for e.g. field names, descriptions, standardised vocabulary etc.
+It is good to think ahead about which standards/conventions you will use later, as adapting your data formatting to be compatible with a specific desired standard/convention early on can save a lot of time later in the project.
+-->
+
+## Gebruikte datastandaarden of afspraken/conventies {#sec-inop-conventions}
+
+> Welke (meta)datastandaarden, methodologieën, vocabulaires zijn of worden gevolgd om ervoor te zorgen dat de data gemakkelijk kunnen worden gebruikt in combinatie met soortgelijke data uit andere bronnen?
+
+<!--
+Geef aan welke standaarden, richtlijnen, controlelijsten of dergelijke gebruikt worden om ervoor te zorgen dat deze data gemakkelijk kan samengevoegd worden met gelijkaardige data en kan worden uitgewisseld. Men spreekt hierbij vaak over het verzekeren van de "interoperabiliteit" van data.
+
+Dit kan bijv. gaan over het formaat waarin data moet aangeleverd worden voor internationale databanken, of het gebruik van een standaard set van categorieën (afgesproken binnen een wetenschappelijke community) om fenologische data te noteren.
+Verwijs naar hoger gedefinieerde datacomponenten.
+
+---------------------------------------------------------
+
+Q - What (meta)data standards, methodologies, vocabularies, are or will be followed to ensure that the data can easily be used in combination with similar data from other sources?
+
+Please specify what (meta)data standards, methodologies, vocabularies, etc. are used to ensure that the data can easily be used in combination with similar data or exchanged with other parties. This question covers ensuring the "interoperability" of data.
+
+This can e.g. cover the format required for uploading data to an international database/repository, or the use of a standard set of categories for recording phenology that are agreed within a scientific community.
+Refer to higher-defined data components.
+
+-->
+
+
+(1) De namen van de kolommen worden vertaald naar de Darwin Core standaard (http://rs.tdwg.org/dwc/) bij het voorbereiden van de data voor publieke ontsluiting via GBIF.
+(5) Compatibel met het INBO-CMS (DwC standaard).
+(6) MIxS metadata standaard.
+

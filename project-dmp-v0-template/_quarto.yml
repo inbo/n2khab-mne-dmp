@@ -1,0 +1,57 @@
+project:
+  type: book
+
+book:
+  title: "INBO DMP Template (v6.0)"
+  date: "2026-09-01"
+  author:
+
+    - name:
+        given: Tina Q.
+        family: Ruffles
+        literal: Tina Ruffles
+      email: tina.ruffles@inbo.be
+      orcid: 0000-XXXX-XXXX-XXXX
+      affiliations:
+        - name: Research Institute for Nature and Forest (INBO)
+          city: Brussels
+    - name:
+        given: Amber
+        family: Break
+        literal: Amber Break
+      email: amber.break@inbo.be
+      orcid: 0000-XXXX-XXXX-XXXX
+      affiliations:
+        - name: Research Institute for Nature and Forest (INBO)
+          city: Brussels
+  chapters:
+    - index.qmd
+    - 10_dmp_information.qmd
+    - 20_project_information.qmd
+    - 30_data_components.qmd
+    - 31_dataset_specifications.qmd
+    - 50_integration.qmd
+    - 51_software_dependencies.qmd
+    - 52_interoperability.qmd
+    - 60_accessibility.qmd
+    - 70_storage.qmd
+    - 80_contact.qmd
+    - 90_references.qmd
+
+bibliography: references.json
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    # title-block-banner: '#C04483'
+    email-obfuscation: references
+    linkcolor: '#C04483'
+  pdf:
+    documentclass: scrreprt
+    linkcolor: 'inbopink'
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \definecolor{inbopink}{HTML}{C04483}

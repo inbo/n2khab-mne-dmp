@@ -1,0 +1,95 @@
+
+# Projectinformatie  {#sec-project-info}
+<!--
+Informatie over het project waarvoor het DMP wordt opgemaakt.
+Merk op dat deze sectie dus nog NIET gaat over de dataset(s), enkel over het project (indien van toepassing).
+Als dit DMP voor een specifieke dataset is en niet voor een project, vul dan ‘NA’ in voor alle vragen in deze sectie.
+
+--------------------------------------------------------------------------------------------
+
+Project Information
+Information on the project for which the Data Management Plan is made.
+Please note that this section is only about the project (if applicable), NOT about the datasets.
+If this DMP is for a specific dataset rather than a project, please fill in 'NA' for all questions in this section.
+
+-->
+
+
+
+## Projecttitel {#sec-project-title}
+<!--
+Volledige titel van het project + acroniem tussen haakjes (indien van toepassing). Waar mogelijk, gebruik de titel van het project in JIRA.
+
+---------------------------------------------------------
+
+Q - Project Title
+
+Full title of the project + acronym in parentheses (if applicable). If possible, the title of the project in JIRA should be used.
+
+-->
+
+Meetnet abiotiek Natura 2000 habitattypen: atmosferische depositie in Vlaamse bossen (`MANat2000-HT`)
+
+## Projectbeschrijving {#sec-project-description}
+
+<!--
+Geef een korte beschrijving van het project waarvoor dit DMP opgesteld wordt. Kopieer gerust de JIRA beschrijving van het project, of vat deze samen in enkele zinnen. Merk op dat documentatie (bv. dmv links) in de volgende vraag wordt gevraagd.
+
+---------------------------------------------------------
+
+Q - Project Description
+
+Please provide a short description of the project covered in this DMP. Feel free to copy the JIRA description of the project, or summarise it in a few sentences. Note that links to documentation and/or a more extensive description can be provided in the next question.
+-->
+
+Dit EVINBO project probeert om de verspreiding van everzwijn in bepaalde regio's van België te voorspellen, aan de hand van statistische modellen en een combinatie van jager-records en waarnemingen. Het bevat zowel experimentele modellering als een 'proof of concept' studie.
+
+
+## Links naar relevante informatie over het project {#sec-project-links}
+
+<!--
+
+Gelieve relevante links naar bestaande documentatie gerelateerd aan het project in te vullen. Bvb. projectvoorstel/fiche, veldprotocols, JIRA, GitHub, ...
+Indien er links zijn die enkel intern geldig zijn, noteer dit alvast. Verder, indien je DMP voor open publicatie wordt bedoeld, gelieve de interne links te verwijderen (de beschrijving van de links mag blijven, maar de links zelf niet). Dit is om te voorkomen dat interne documenten onbedoeld worden gedeeld.
+
+---------------------------------------------------------
+
+Q - Links to relevant information about the project
+
+Please provide relevant URLs to existing documentation on the project, e.g.: project proposal, field protocol, JIRA, GitHub, ...
+If links are only available internally to INBO, please note this. Further, if the DMP will be published, please delete the links (a description of the links may still be given, but not the actual links themselves). This is to avoid unintentional sharing of internal documents.
+
+-->
+
+
+### Interne links
+
+- Link naar de PIF: <https://docs.google.com/document/XXXXX/XXXXXXX>
+- Link naar het project in JIRA: <https://inbojira.inbo.be/jira/browse/INBOPRJ-XXXXX>
+
+### Externe links
+
+De projectpagina op de INBO-website is hier:
+<https://www.vlaanderen.be/inbo/en-GB/projects/meetnet-biodiversiteit-agrarisch-gebied-mbag-meetnet-agrarische-soorten-mas>
+
+
+
+## Projectcontact {#sec-project-contact}
+
+<!--
+Gelieve de naam, ORCID en mailadres van de (voornaamste) project-contactperso(o)n(en) te geven.
+Let op: Zorg dat deze zeker akkoord zijn met het weergeven van hun mailadres en ORCID, des te meer als het DMP wordt gedeeld buiten INBO of wordt gepubliceerd.
+
+---------------------------------------------------------
+
+Q - Project contact details
+
+Please provide the name, ORCID and email address of the best person/people to contact regarding the project.
+Please note: Check that all named people consent to have their email and ORCID listen in this DMP, especially if the DMP will be published and/or circulated beyond INBO.
+
+
+Quarto note: you could also reference the DMP contact chapter (@sec-contact).
+-->
+
+
+Voornaam, Achternaam, ORCID, mailadres  (bijv. Tina Ruffles, ORCID 0XXX-XXX-XXX, tina.ruffles@inbo.be)

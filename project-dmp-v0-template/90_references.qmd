@@ -1,0 +1,12 @@
+# References {.unnumbered #sec-references}
+
+<!--
+References are best stored in zotero, using the "betterbibtex" plugin,
+exporting in "csl json" format.
+Other file types and reference list formats will also work, 
+if you adjust the `bibliography` setting in `_quarto.yml` accordingly.
+
+-->
+
+::: {#refs}
+:::

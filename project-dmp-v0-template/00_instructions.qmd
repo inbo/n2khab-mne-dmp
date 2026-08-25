@@ -1,0 +1,51 @@
+# Template Information
+
+
+:::{.panel-tabset group="languages"}
+## NL {.unnumbered} 
+**Versie 6: Lente 2026, gepubliceerd op 01 juni 2026**
+
+
+Dit sjabloon is ontworpen om een evenwicht te vinden tussen de beperkte tijd waarover de meeste onderzoekers beschikken en de hoeveelheid informatie die nodig is om een zinvol data management plan op te stellen.
+Het is geschikt voor plannen met betrekking tot projecten, datasets of databanken. Lees de begeleidende informatie ('guidance') bij het sjabloon voor meer details. Als u twijfelt over welke details u moet opnemen, kunt u altijd contact opnemen met datasteward@inbo.be.
+
+De standaardtaal voor INBO DMP's is Nederlands, met uitzondering van twee vragen die in het Engels moeten worden beantwoord.
+Opmaak van een DMP in het Engels geniet de voorkeur als u het DMP wenst (open) te publiceren of samenwerkt met niet-Nederlandssprekende collega's.
+
+
+
+## EN {.unnumbered} 
+
+**Version 6: Spring 2026, published on 01 June 2026**
+
+
+This template has been designed to balance the limited time available to most researchers with the amount of information necessary to write a meaningful data management plan. It is suitable for plans about projects, datasets or databanks - please read the guidance which accompanies the template for further details. If in doubt about what details to include, you can always contact datasteward@inbo.be
+
+The default language for INBO DMPs is Dutch, except for two questions which require an answer in English.
+If you plan on sharing the DMP with international colleagues, if it concerns a collaborative project or international dataset(s), writing in English is often advised.
+
+:::
+
+
+# Instructions
+
+:::{.panel-tabset group="languages"}
+
+### NL {.unnumbered}
+
+Voor deze minimale template, of sjabloon, van Het INBO, werd een basisset aan informatievelden geselecteerd. Je Data Management Plan (DMP) is compleet (in eerste versie) wanneer alle vragen in dit sjabloon zijn beantwoord.
+Bij elke vraag is er 'guidance' en een 'example answer' - deze geven extra informatie over wat verwacht wordt bij je antwoord en een voorbeeldantwoord uit een ander DMP.
+Alle informatie is in Nederlands en Engels gegeven, maar het wordt niet verwacht dat je alle vragen in beide talen beantwoordt (zie guidance bij sectie 'DMP Informatie').
+
+Het is heel normaal dat er onbekenden en onzekerheden zijn tijdens het maken van een DMP - deze kunnen worden bijgewerkt in een toekomstige versie van het DMP. In zulke instanties, gelieve toch 'TBD' of gelijk te antwoorden.
+
+## EN {.unnumbered} 
+
+For this minimal template, you will be presented with a basic set of questions to answer. The Data Management Plan (DMP) is complete (in it's first version) when all questions in the template have been answered.
+For each question, there is 'guidance' and an 'example answer' - these provide additional information on what is expected to be in your answer and an example answer from another DMP.
+All information is given in both Dutch and English, but it is not expected that you answer all the questions in both languages (see guidance under section 'DMP Information'. If you need more help in English, please see https://docs.google.com/document/d/1GtNZTd8WLyJBoEHL85jrtaCc8bgnIY3_65x-pabMsNU/edit?usp=sharing
+
+It is perfectly normal for there to be unknowns and uncertainties while creating a DMP - these can be updated in a future version of the DMP.
+In these cases, please note 'TBD' or similar in your answer.
+
+:::

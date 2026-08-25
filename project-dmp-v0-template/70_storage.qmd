@@ -1,0 +1,56 @@
+# Dataopslag en back-up {#sec-storage}
+
+<!--
+
+Deze sectie behandelt opslag en back-up van de datacomponenten en bredere projectdata, indien van toepassing.
+Bijhorende aspecten zijn, o.a., gebruik van de INBO Google Drives, online repositories, projectmappen, archivering, ...
+
+------------------------------------------------------------------------------------------------------------
+
+Data storage and back-up
+
+This section focusses on storage and back-up of the data components and, where applicable, broader project data.
+Related topics include use of the INBO Google-Drives, online repositories, project files, archiving, ...
+-->
+
+## Hoe zal de data opgeslagen worden en welke back-ups zijn er? {#sec-storage-current}
+
+<!--
+Gelieve aan te geven hoe de data beschermd zijn tegen dataverlies, bijvoorbeeld met back-ups, en wat de korte- en lange termijn opslagplannen zijn. Als er gevoelige data is, leg aub extra uit hoe het behandeld zal worden.
+
+Vul hier zo veel detail in als nodig - het kan vrij simpel (bijv. "Lite") of ingewikkeld (bijv. de tweede voorbeeld) worden.
+
+Kopie gerust de volgende zinnen over de INBO opslag opties:
+
+Alle INBO Google Drives hebben een 30-dagen back-up in het geval van verwijderde bestanden. Van SQL Server data wordt regelmatiger een back-up gemaakt.
+De INBO-Archive Google Drive bevat read-only kopieën van data, bewaard voor de lange termijn.
+Indien nodig, kan de toegang tot alle INBO-beheerde data worden beperkt tot bepaalde medewerkers.
+---------------------------------------------------------
+
+Q - How will the data be stored and backed up?
+
+Please provide details on how the data will be protected against data loss, for example via back-ups, and what the short and long-term storage plans are for the data.  If there is sensitive data, please give extra detail regarding how it will be dealt with.
+Enter as much detail here as needed - it can be quite simple or more complicated.
+
+Feel free to copy and reuse the following sentences about the INBO storage options:
+
+All INBO Google Drives have a 30-day backup in case of deleted files. SQL Server data are backed up more regularly.
+The INBO-Archive Google Drive contains read-only copies of data, preserved for the long term.
+If needed, access to all INBO-managed data can be limited to specific members of staff.
+-->
+
+
+Lite (met datacomponent nummers):
+(1 & 2) wordt opgeslagen in de projectmap van de INBO Google Drives, voordat ze worden geïmporteerd in de centrale SQL Server-database. De projectmap is toegankelijk voor alle wetenschappelijke medewerkers van het INBO.
+(3) is alleen toegankelijk voor de projectmedewerkers en wordt verwijderd wanneer deze niet langer nodig is. Na afloop van het project worden de laatste kopieën van de data (1-3) (behalve de vrijwillige dataset) gearchiveerd in de INBO-Archive Google drive.
+
+Alle INBO Google Drives hebben een 30-dagen back-up in het geval van verwijderde bestanden. Van SQL Server-data wordt regelmatiger een back-up gemaakt.
+De INBO-Archive Google Drive bevat read-only kopieën van gegevens, bewaard voor de lange termijn.
+
+In eerste instantie, wordt de spreadsheet data opgeslagen op de Google Drive van het project (interne map pad XX) en, binnen twee maanden na het verzamelen worden ze geïmporteerd in de centrale SQL Server-database. Gestandaardiseerde procedures voor SQL Server-databases zijn van toepassing. Voor deze is ook een standaard back-up procedure opgezet.
+
+Tijdens de dataverzameling worden verschillende Google-Drives van het INBO Google drive systeem gebruikt voor dataopslag. Deze omvatten een persoonlijke schijf en een projectmap (interne bestandspaden XXX & XXX). De projectmap is toegankelijk voor de promotor, co-promotor en INBO-IT. Alle schijven hebben een back-up van 30 dagen in geval van verwijderde bestanden.
+
+Na afloop van het project worden de definitieve kopieën van de gegevens gearchiveerd in de INBO-Archive Google drive. Dit is een read-only kopie van de data die daar voor de lange termijn wordt bewaard.
+
+De vrijwilliger dataset wordt ook op deze manier bewaard, maar omdat deze gevoelige informatie bevat, wordt deze extra beveiligd zodat alleen de projectmedewerkers toegang hebben tot de gearchiveerde dataset. Na 5 jaar wordt de dataset periodiek geëvalueerd en, als blijkt dat de dataset niet langer nodig is, wordt deze verwijderd.

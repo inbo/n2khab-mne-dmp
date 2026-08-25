@@ -1,0 +1,12 @@
+
+<!--
+Dit is een alternatieve manier van dataset-beschrijving in aparte bestanden.
+Voor projecten van compexere structuur
+-->
+
+# Dataset-Specific Details {#sec-dataset-specific}
+
+
+{{< include datasets/010_fieldassessment.qmd >}}
+
+{{< include datasets/020_protocols.qmd >}}
