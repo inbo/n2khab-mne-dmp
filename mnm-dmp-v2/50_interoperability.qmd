@@ -1,0 +1,13 @@
+# Inter-Operability {#sec-interoperability}
+`QUESTION`
+
+<!--
+> What (meta)data standards, methodologies, vocabularies, are or will be followed 
+> to ensure that the data can easily be used in combination with similar data from other sources 
+> (so-called interoperable data)?
+-->
+
+Inter-operability of the data is mainly defined by the context of the MNE project: we build on prior experience and partially analogous projects at our institute which have been executed or are ongoing.
+For primary data, we follow the established route of others at INBO and contribute to existing databases and systems (e.g. WATINA, AquaChem), adhering to their data standards and formats.
+For secondary data which has not been framed in a common standard, we pursue inter-operability by transparency and interactive exchange with other stakeholders, putting efforts into documentation and reproducible examples.
+Data access and usage by others is facilitated by the application of open source programming in conventually used, widely available and extensible scripting languages (R, SQL, Python).

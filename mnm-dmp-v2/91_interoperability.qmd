@@ -1,7 +1,0 @@
-# Inter-Operability {#sec-interoperability}
-
-> What (meta)data standards, methodologies, vocabularies, are or will be followed 
-> to ensure that the data can easily be used in combination with similar data from other sources 
-> (so-called interoperable data)?
-
-*[TBD]*

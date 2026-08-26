@@ -1,25 +1,23 @@
-# Dataset Information {#sec-datasets-overview}
+# Data Components {#sec-datasets-overview}
 
-## Datasets
+## Datasets - Overview
 
 - Field assessment data from Natura 2000 habitat monitoring (@sec-ds-fieldassessments)
 - Sampling frame for Natura 2000 habitat monitoring (@sec-ds-samplingframe)
-- Design attributes of spatiotemporal sample units (@sec-ds-sampleunit-design)
+- Design attributes of spatiotemporal sample units (@sec-ds-rep)
+- (Field) Protocols (@sec-ds-protocols)
+- Fieldwork organization and co-ordination (@sec-ds-fieldworkorga)
 - Explanatory attributes of sample units (@sec-ds-sampleunit-attributes)
 - Groundwater Level (@sec-ds-gw-levels)
-- Surface Water Level (@sec-ds-surf-levels)
 - Groundwater quality (@sec-ds-gw-quality)
-- Surface water quality (@sec-ds-surf-quality)
-- Soil physicochemistry (@sec-ds-soil-physchem)
 - Metadata of in-situ equipment at groundwater sites (@sec-ds-gw-meta)
-- Metadata of in-situ equipment at surface water sites (@sec-ds-surf-meta)
+- Surface water quality (@sec-ds-surf-quality)
+- Explanatory Observations in the Context of Surfacewater Sampling (@sec-ds-surf-context)
+- Soil physicochemistry (@sec-ds-soil-physchem)
 - Metadata of in-situ equipment at soil monitoring sites (@sec-ds-soil-meta)
 - Inundation water quality (@sec-ds-inundation)
 - Air quality (@sec-ds-air)
 
 ## General Considerations
 
-- Whether there are sensitivity/ethical/legal concerns with the datasets is not yet clear [*TBD*].
-- All datasets are planned to be published openly as soon as possible, the specifics for each dataset and type of data are still to be decided [*TBD*].
-
-
+- Whether there are sensitivity/ethical/legal concerns in any of the datasets is not yet clear [*TBD*].

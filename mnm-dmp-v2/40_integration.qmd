@@ -1,0 +1,37 @@
+# Integration {#sec-integration}
+
+<!--
+> Link(s) to existing information/documentation on the dataset
+-->
+
+
+## WATINA Database
+The data system can be found at: <https://watina.inbo.be/>
+Technical database information is available at: <https://www.milieuinfo.be/confluence/display/INBODEV/Watina+DWH+W0002>.
+The database is accessed using R packages `watina`, `inbodb`, `DBI` and `dbplyr`, and Python package `SQLAlchemy`.
+
+## AquaChem Database
+This database is not publicly available at the moment. 
+It can be accessed by INBO staff using R packages `inbodb`, `DBI` and `dbplyr`, and Python package `SQLAlchemy`.
+
+## INBOdem Database
+This database is not publicly available at the moment. 
+It can be accessed by INBO staff using R packages `inbodb`, `DBI` and `dbplyr`, and Python package `SQLAlchemy`.
+
+## MNE Databases
+Project-specific data flows are captured in dedicated postgreSQL databases.
+There are multiple, task-specific databases, which primarily serve as backends for QGIS and QField applications.
+Therefore, database structure is dynamic and bespoke for each field task, but constrained by the conceptual requirements of the Revisit Plan (REP).
+Documentation is available on the `n2khab-mne-monitoring` repository: <https://github.com/inbo/n2khab-mne-monitoring/tree/main/990_database_documentation>.
+
+Additional documentation on objects derived from the REP are [available on the `mnedesigndata` reference](https://inbo.github.io/mnedesigndata/reference/).
+
+
+## Github
+
+Essentially all development on the MNE project tooling is permanently synchronized via [git](https://git-scm.com) and stored on "github" online repositories.
+
+- A complete linked list of repositories for this project and the associated Monitoring programme for biotic Habitat Quality (MHQ) is available here: <https://github.com/inbo/n2khab-monitoring>
+- Development on procedures of sample design and revisit planning are found here: <https://github.com/inbo/n2khab-mne-designs>
+- Analyses and tools for the support of monitoring efforts, and development on the MNE database and database tools in particular, can be followed here: <https://github.com/inbo/n2khab-mne-monitoring>
+

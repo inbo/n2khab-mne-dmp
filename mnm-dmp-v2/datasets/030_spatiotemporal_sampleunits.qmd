@@ -1,4 +1,16 @@
-## Design attributes of spatiotemporal sample units {#sec-ds-sampleunit-design}
+## Design Attributes and Outcome of Spatiotemporal Sampling {#sec-ds-rep}
+
+Target locations (sample units) are randomly drawn from a dynamic *sampling frame* (@sec-ds-samplingframe) and recurrently visited according to a spatiotemporal revisit design, the "revisit plan" (REP).
+
+The procedure of assembling prior geospatial and ecological knowledge to generate the sampling frame, and the derivation of the REP, generate a number of tables and objects which guide the subsequent field work and data acquisition.
+The procedure is complex, yet extensively documented, and involves a number of basic definitions in the context of our monitoring efforts (e.g. definition, recurrence, and relative timing of activity sequences).
+
+Among the results of these scripts are "REP objects", a set of R objects (data frames/"tibbles"), which enable or facilitate downstream processing and are shared internally.
+
+:::{.callout-note title="git repository"}
+Scripts to generate the REP are publicly available on the git repository <https://github.com/inbo/n2khab-mne-designs>.
+:::
+
 
 - Numerical
 - New/Primary dataset which includes, among other data, the stratum size; sampling weight per site & per observation year; tracks planned sites, planned site visits & site replacements; is created from R functions which draw the sample from the sampling frame.

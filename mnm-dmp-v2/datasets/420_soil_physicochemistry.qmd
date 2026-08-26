@@ -1,5 +1,9 @@
 ## Soil physicochemistry {#sec-ds-soil-physchem}
 
+:::{.callout-warning title="work in progress"}
+At the time of writing (09/2026), plans exist for the start of the soil monitoring schemes, but no concrete steps for data management have been taken.
+:::
+
 - Physical, Numerical.
 - Physical samples will be held by INBO according to existing procedures.
 - Adding new, project-specific data to an existing dataset (the INBOdem SQL Server database). Data are updated frequently (e.g. daily). Added data is verified.

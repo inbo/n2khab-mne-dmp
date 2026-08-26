@@ -1,0 +1,28 @@
+## Explanatory Attributes of Sample Units {#sec-ds-sampleunit-attributes}
+`QUESTION`
+
+Each monitoring scheme has the purpose of collecting primary target variables (covered below).
+During fieldwork, we collect additional observations of context and circumstances which may have explanatory character for later analysis of the primary data.
+Those are auxiliary or explanatory observations, and they can have impact on different levels of the data procedure (sample unit, temporally / single measurement, series or groups of measurements).
+
+Examples include:
+
+- time and season of data acquisition
+- physicochemical field measurements during water collection (e.g. ambient temperature, sample pH and conductivity, ...)
+- perturbations (e.g. acute use of fertilization in the area, exceptional weather events)
+
+
+The number and type of potential explanatory factors depends on the activity type; the number of observations is not fixed *a priori* and vary with the expected or exceptional circumstances of data collection.
+They are captured and stored via the MNE databases and fieldwork apps (alongside fieldwork organization, @sec-ds-fieldworkorga).
+
+
+
+- Numerical; Text (English)
+- New/Primary dataset comprising explanatory variables at sample unit level collected through GIS analyses or in the field for data analysis and interpretation
+- Collection since 2025 and expected to run until at least 2050; exclusively carried out by INBO
+- Expected to include ongoing/continuous data revision/addition and yearly updating of dataset until (at least) 2050.
+- Data are updated frequently (e.g. daily) in the production environment; via QGIS/QField fieldwork Apps and SQL database
+- Backup strategy: nightly automatic dumps and storage of reversible "patches" to allow retro-inspection of data; regular (~daily) backup to cloud storage such as Google Drive; monthly copy to local digital storage (physical hard drives).
+- Publishing strategy: publication is irregular and will be triggered by reports and analyses; more regular publication is desirable but hinges on separation from fieldwork co-ordination and an assessment of the explanatory relevance of collected parameters
+- Data management responsibilities rest with INBO/MNE.
+

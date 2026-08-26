@@ -1,10 +1,20 @@
 ## Groundwater Levels {#sec-ds-gw-levels}
 
+Installations for the monitoring of groundwater-related primary variables are usually equipped with divers to measure water levels.
+To organize and store these data, we contribute MNE-specific measurements to the infrastructure established by other teams and projects at INBO via the WATINA database system.
+We follow the procedures and assure compatibility with protocols of others, and contribute to data validation.
+
+:::{.callout-note title="WATINA web service"}
+The WATINA data is available to registered users via <https://watina.inbo.be>.
+:::
+
+
+
 - Numerical
-- Adding new, project-specific data to an existing dataset (the Watina SQL Server database). Data are updated frequently (e.g. daily). Added data is verified.
+- Adding new, project-specific data to an existing dataset (the WATINA SQL Server database). Data are updated frequently (e.g. daily). Added data is verified.
 - Expected to include around 2100 sites and 365 observations per year of two measurement variables, hydrostatic pressure & atmospheric pressure
-- Collection expected to run from 2025 to 2050 and exclusively carried out by INBO.
-- Backup strategy: monthly data dumps to cloud storage such as Google Drive, and to local digital storage (physical hard drives).
+- Collection exclusively by INBO; since 2025, expected to run at least until 2050.
+- Backup strategy: responsibility with WATINA database maintainers; additionally: monthly data dumps of MNM-specific data points and cloud storage such as Google Drive, and to local digital storage (physical hard drives).
 - Publishing strategy: planned to be published openly as soon as possible. Releases are made less frequently (e.g. yearly) to Zenodo.
 - Data management responsibilities rest with INBO.
 

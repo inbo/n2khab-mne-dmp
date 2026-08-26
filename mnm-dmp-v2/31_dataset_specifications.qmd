@@ -7,7 +7,11 @@
 
 {{< include datasets/030_spatiotemporal_sampleunits.qmd >}}
 
-{{< include datasets/040_sampleunit_attributes.qmd >}}
+{{< include datasets/100_protocols.qmd >}}
+
+{{< include datasets/110_fieldwork_organization.qmd >}}
+
+{{< include datasets/120_sampleunit_attributes.qmd >}}
 
 {{< include datasets/210_groundwater_levels.qmd >}}
 
@@ -15,9 +19,7 @@
 
 {{< include datasets/230_groundwater_metadata.qmd >}}
 
-{{< include datasets/310_surfacewater_levels.qmd >}}
-
-{{< include datasets/320_surfacewater_quality.qmd >}}
+{{< include datasets/310_surfacewater_quality.qmd >}}
 
 {{< include datasets/330_surfacewater_metadata.qmd >}}
 

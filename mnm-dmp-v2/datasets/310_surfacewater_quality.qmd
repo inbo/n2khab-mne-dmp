@@ -1,0 +1,19 @@
+## Surface water quality {#sec-ds-surf-quality}
+
+For the monitoring schemes `SURF_03.4` "eutrofication via surface water", chemical samples are obtained repeatedly from sample units.
+In this case, sample units are different types of surface water aggregations (such as ponds or stream segments) which host the given habitat types.
+Those units are randomly determined by the REP (@sec-ds-rep), and sampled following established field protocols (@sec-ds-protocols).
+
+Analogous to chemical measurements of groundwater quality (@sec-ds-gw-quality), water samples are processed by the INBO laboratory and accessible via the LIMS.
+To make those specific data more accessible, the "AquaChem" database was created by others at INBO which receives nightly updates.
+The MNE will contribute to that database, keeping register of the MNE-specific data points.
+
+
+- Numerical
+- Adding new, project-specific data to an existing dataset the (AquaChem SQL Server database). Data are updated frequently (e.g. daily). Added data is verified.
+- Expected to include around 150 sites and 12 observations per year of around 15 measurement variables. `QUESTION`
+- Collection started 2026 and expected to run until at least 2050; exclusively by INBO
+- Backup strategy: monthly data dumps to cloud storage such as Google Drive, and to local digital storage (physical hard drives).
+- Publishing strategy: planned to be published openly as soon as possible. Releases are made less frequently (e.g. yearly) to Zenodo.
+- Data management responsibilities rest with INBO.
+
