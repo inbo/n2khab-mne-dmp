@@ -1,7 +1,7 @@
 ## Sampling Frame for Natura 2000 Habitat Monitoring {#sec-ds-samplingframe} 
 `QUESTION`
 
-Data from the MNE will be collected on a random sample of locations via design-based inference (@brus_method_2003, @edwards_issues_1998, @manly_sampling_2014, @olsen_statistical_1999).
+Data for the MNE will be collected on a random sample of locations via design-based inference (@brus_method_2003, @edwards_issues_1998, @manly_sampling_2014, @olsen_statistical_1999).
 Existing geospatial data must be assembled to restrict the total search space (Flanders) to locations of suitable habitat types ("stratified" sampling).
 Spatial balance of a set of sample locations is achieved by Generalized Random Tessellation Stratified (GRTS) sampling (@stevens_spatially_2004).
 Prior to the sampling itself, a GRTS master frame must be generated and dynamically updated (@onkelinx_ontwerp_2008, @onkelinx_thierry_2019_2682323).
@@ -15,7 +15,7 @@ Development work on the scripts used to assemble the sampling frame can be follo
 
 - Numerical
 - New/Primary dataset related to presence of habitat type (around 1.2 million rows of data). Data will be derived from existing spatial layers & the (above listed) field assessment dataset, using R functions that generate GRTS ranking number, take care of the integration etc.
-- Dataset compilation to begin in 2024.
+- Dataset compilation began in 2024.
 - Expected to include ongoing/continuous data collection and yearly updating of dataset until (at least) 2050.
 - Data are updated frequently (e.g. daily) in the production environment; format and workflow TBD (ideally an open SQL database).
 - Backup strategy: monthly data dumps to cloud storage such as Google Drive, and to local digital storage (physical hard drives).

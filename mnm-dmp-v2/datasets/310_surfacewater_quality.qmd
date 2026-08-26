@@ -1,6 +1,8 @@
 ## Surface water quality {#sec-ds-surf-quality}
 
-For the monitoring schemes `SURF_03.4` "eutrofication via surface water", chemical samples are obtained repeatedly from sample units which are part of the REP, following established field protocols (@sec-ds-protocols).
+For the monitoring schemes `SURF_03.4` "eutrofication via surface water", chemical samples are obtained repeatedly from sample units.
+In this case, sample units are different types of surface water aggregations (such as ponds or stream segments) which host the given habitat types.
+Those units are randomly determined by the REP (@sec-ds-rep), and sampled following established field protocols (@sec-ds-protocols).
 
 Analogous to chemical measurements of groundwater quality (@sec-ds-gw-quality), water samples are processed by the INBO laboratory and accessible via the LIMS.
 To make those specific data more accessible, the "AquaChem" database was created by others at INBO which receives nightly updates.

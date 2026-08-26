@@ -1,6 +1,12 @@
 # Software Dependencies
 
+## Principles
 For recurrent work routines, MNE data is processed and accessed via the following software tools.
+To prevent future compatibility issues often caused by closed software formats and licensing deadlocks, we follow the following principles.
+
+- The use of free, open source software ensures that we can retrospectively access data, even if third party support, maintenance, or license period cease.
+- We use a modular data pipeline, in which each component is replaceable with manageable effort.
+
 
 ## R
 
@@ -26,7 +32,7 @@ Those are:
 ## PostgreSQL and PostGIS
 
 The MNE databases run on a [postgreSQL server](https://www.postgresql.org), a free and open source database server program.
-[PostGIS](https://postgis.net) is an extension for postgreSQL which adds geographic data types. 
+[PostGIS](https://postgis.net) is an extension for postgreSQL which adds geographic data types and GIS processing functions. 
 
 PostgreSQL databases can be accessed and managed through various interfaces.
 There are rather raw, direct control tools (e.g. [`pgAdmin`](https://www.pgadmin.org)); access from R or Python is possible, and we can directly connect QGIS map layers to the database.

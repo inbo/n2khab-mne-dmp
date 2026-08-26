@@ -2,7 +2,7 @@
 
 The WATINA database also provides fields for some relevant, explanatory sample unit attributes.
 As a result, it is not necessary to also record that information via the MNE database.
-Examples include reference measurements of water levels and diver calibrations, soil drilling profile descriptions, and installation repair and replacement.
+Examples include reference measurements of water levels and diver calibrations, soil drilling profile descriptions, and *in situ* installation maintenance (repair and replacement).
 
 This data is generally handled in conjunction with the other WATINA data sets (@sec-ds-gw-levels, @sec-ds-gw-quality).
 

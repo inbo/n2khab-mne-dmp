@@ -2,7 +2,7 @@
 
 Installations for the monitoring of groundwater-related primary variables are usually equipped with divers to measure water levels.
 To organize and store these data, we contribute MNE-specific measurements to the infrastructure established by other teams and projects at INBO via the WATINA database system.
-We follow the procedures and assure compatibility with protocols of others, and contribute to the data validation workload.
+We follow the procedures and assure compatibility with protocols of others, and contribute to data validation.
 
 :::{.callout-note title="WATINA web service"}
 The WATINA data is available to registered users via <https://watina.inbo.be>.

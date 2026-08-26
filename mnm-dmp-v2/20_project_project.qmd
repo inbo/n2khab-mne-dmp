@@ -9,10 +9,10 @@ Monitoring Programme for the Natural Environment
 `QUESTION` draft - to be proofread
 
 
-The goal of the Monitoring Programme for the Natural Environment is to monitor the the abiotic environment at the regional level in Flanders. 
+The goal of the Monitoring Programme for the Natural Environment is to monitor the abiotic environment at the regional level in Flanders. 
 The programme aims to determine the status and trends of environmental pressures in Natura 2000 habitats and regionally important biotopes.
 Various environmental pressures, such as eutrophication, acidification, desiccation, pollution, and climate change, have an impact on habitat quality.
-Through the programme, we aim to provide a coherent overview of the various environmental pressures which influence habitats via the five compartments of the natural environment: soil, groundwater, surface water, air, and floodwater.
+Through the programme, we aim to provide a coherent overview of the various environmental pressures which influence habitats via the five compartments of the abiotic environment: soil, groundwater, surface water, air, and floodwater.
 Monitoring schemes are specifically designed for each combination of pressure and compartment, and schemes are implemented successively (phased roll-out) according to policy priorities.
 The programme will provide reliable data about the status and trend of the abiotic context of valuable, potentially vulnerable habitats, thereby supporting the planning, evaluation, and adjustment of Flemish nature policy.
 We use a statistically profound, robust approach to provide spatially balanced, random samples.
@@ -24,8 +24,8 @@ And we commit to providing high quality and fully transparent research within IN
 
 ## Links {#sec-project-links}
 
-+ <https://pureportal.inbo.be/en/organisations/monitoring-programme-for-the-natural-environment/>
++ <https://pureportal.inbo.be/nl/organisations/monitoring-programme-for-the-natural-environment/>
 
 ## Project Contact {#sec-project-contact}
 
-See @sec-contact.
+Same as DMP contact (@sec-contact).

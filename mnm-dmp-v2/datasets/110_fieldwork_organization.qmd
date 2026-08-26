@@ -1,17 +1,17 @@
 ## Fieldwork Organization and Co-ordination {#sec-ds-fieldworkorga}
 
 One outcome of the Revisit Plan (REP, @sec-ds-rep) is a calender with planned activities per time period (e.g. monthly or quarterly).
-The function of this calender is to lead and co-ordinate efforts such as location evaluation, fieldwork, or laboratory analysis.
+The function of this calender is to lead and co-ordinate efforts such as location evaluation and other fieldwork, or laboratory analysis.
 To realize these plans, activities must be prepared (e.g. permissions), allocated to executing colleagues, and distributed (i.e. the colleagues should receive an overview of activities).
 
 Conversely, as soon as activities are performed, information on the actual execution, potential issues, and context of the sample units must be collected.
 Links with primary data sets for the different monitoring schemes must be tracked (e.g. LIMS identifiers, WATINA location codes).
 
 
-The organization and co-ordination of (field) activities, and tracking of the outcome of the realized efforts, is achieved via a database server.
+The organization and co-ordination of (field) activities, and tracking of the outcome of the realized efforts, is achieved via a SQL database.
 That database enables colleagues to view and exchange information in real time.
 It can be accessed via programming interfaces (e.g. R), or via dedicated fieldwork Apps (QGIS / QField), whereby "forms" in the latter can serve as a convenient implementation of field protocols.
-By direct interaction of its users with the constraints given by the REP, the database contains a register of processes which led to the MNE data generation. 
+By direct interaction of its users with the planning given by the REP, the database contains a register of processes which led to the MNE data generation. 
 
 :::{.callout-note title="git repository"}
 The database structure, documentation, as well as initialization and maintenance scripts are available on the git repository <https://github.com/inbo/n2khab-mne-monitoring>.
@@ -29,8 +29,8 @@ It also contains efficient links from the unit identification system of upstream
 - New/auxiliary dataset comprising process data at multiple levels (locations, sample units, activities) collected through database interaction via QGIS/QField projects and forms.
 - Collection since 2025, expected until at least 2050 and exclusively carried out by INBO/MNE
 - Include ongoing/continuous data revision/addition based on REP adjustments and field observations.
-- Data are updated frequently (e.g. daily) in the production environment; scripted mainenance tasks; storage via a postgreSQL database.
-- Backup strategy: nightly automatic dumps and storage of reversible "patches" to allow retro-inspection of data; regular (~daily) backup to cloud storage such as Google Drive, and to local digital storage (physical hard drives).
+- Data are updated frequently (e.g. daily) in the production environment. Scripted mainenance tasks ensure logical consistency and synchronize changes. Storage via a postgreSQL database.
+- Backup strategy: nightly automatic dumps and storage of reversible "patches" to allow retro-inspection of data; regular (~daily) backup to cloud storage such as Google Drive; monthly copy to local digital storage (physical hard drives).
 - publication:
   - *[tbd.]* Since the database does not directly contain primary data, and since its main purpose is internal workforce co-ordination and information exchange, this data might not be of value for an external audience.
   - However, the database tooling and development are publicly available via git (continuous).
