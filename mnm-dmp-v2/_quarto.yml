@@ -53,16 +53,18 @@ book:
   date: "2026-08-21"
   chapters:
     - index.qmd
-    - 01_information.qmd
-    - 02_datasets.qmd
-    - 10_dataset_specificities.qmd
-    - 80_integration.qmd
-    - 81_software_dependencies.qmd
-    - 91_interoperability.qmd
-    - 92_accessibility.qmd
-    - 93_storage.qmd
-    - 98_contact.qmd
-    - 99_references.qmd
+
+    - 10_dmp_information.qmd
+    - 20_project_project.qmd
+    - 30_data_components.qmd
+    - 31_dataset_specifications.qmd
+    - 40_integration.qmd
+    - 50_interoperability.qmd
+    - 51_software_dependencies.qmd
+    - 60_accessibility.qmd
+    - 70_storage.qmd
+    - 80_contact.qmd
+    - 90_references.qmd
 
 bibliography: references.json
 
