@@ -1,6 +1,6 @@
-# Dataset Information {#sec-datasets-overview}
+# Data Components {#sec-datasets-overview}
 
-## Datasets
+## Datasets - Overview
 
 - Field assessment data from Natura 2000 habitat monitoring (@sec-ds-fieldassessments)
 - Sampling frame for Natura 2000 habitat monitoring (@sec-ds-samplingframe)
