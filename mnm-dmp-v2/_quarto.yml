@@ -3,8 +3,23 @@ project:
 
 book:
   title: "DMP for MNE - Monitoring Programme for the Natural Environment (v2.0)"
-  author:
+  date: "2026-08-26"
 
+  chapters:
+    - index.qmd
+    - 10_dmp_information.qmd
+    - 20_project_project.qmd
+    - 30_data_components.qmd
+    - 31_dataset_specifications.qmd
+    - 40_integration.qmd
+    - 50_interoperability.qmd
+    - 51_software_dependencies.qmd
+    - 60_accessibility.qmd
+    - 70_storage.qmd
+    - 80_contact.qmd
+    - 90_references.qmd
+
+  author:
     - name:
         given: Karen
         family: Wuyts
@@ -50,21 +65,6 @@ book:
       affiliations:
         - name: Research Institute for Nature and Forest (INBO)
           city: Brussels
-  date: "2026-08-21"
-  chapters:
-    - index.qmd
-
-    - 10_dmp_information.qmd
-    - 20_project_project.qmd
-    - 30_data_components.qmd
-    - 31_dataset_specifications.qmd
-    - 40_integration.qmd
-    - 50_interoperability.qmd
-    - 51_software_dependencies.qmd
-    - 60_accessibility.qmd
-    - 70_storage.qmd
-    - 80_contact.qmd
-    - 90_references.qmd
 
 bibliography: references.json
 
