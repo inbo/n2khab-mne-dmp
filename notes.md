@@ -28,6 +28,7 @@ quarto render <subfolder>
 + [ ] license: (which) should we add to the repo? -> CC-BY 4.0 per recommendation on DMP template
 + [ ] add this repo to <https://github.com/inbo/n2khab-monitoring>
 + [ ] potentially add RSE, STAT and MO's as authors? -> rather not, but distribute afterwards "FYI"
++ [ ] Do we want to improve the PDF title page or general style of HTML or PDF?
 
 (done)
 + [x] primary/secondary data categorization
