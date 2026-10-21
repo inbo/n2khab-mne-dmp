@@ -36,6 +36,7 @@ The writing and updating process is a collaborative procedure, which can be foll
 |         |               | - list software dependencies                                                                  |
 |         |               | - describe inter-operability                                                                  |
 |         |               | - add license CC-BY 4.0                                                                       |
+|         |               | - remove physical hard drives as a backup option                                              |
 |  v1.0   |    2025-01-14 | - initial version                                                                             |
 : Version History {#tbl-versions}
 
