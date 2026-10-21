@@ -1,0 +1,21 @@
+## Protocols {#sec-ds-protocols}
+
+Field- and other activities must be standardized to be reproducible and to assure data acquisition quality.
+For the MNE project, we therefore participate in the system of INBO protocols (<https://protocols.inbo.be>).
+
+
+:::{.callout-note title="git repository"}
+Project-specific protocols are available on the `inbo/protocolsource` git repository in a dedicated subfolder: <https://github.com/inbo/protocolsource/tree/main/source/spp/mnm>.
+:::
+
+Protocols can be subject to change to optimize workflows or align with similar efforts of others. 
+The INBO protocols facilitate keeping track of the changes and history of procedures.
+
+
+- text (primarily Dutch)
+- explanatory, descriptive documentation of fieldwork activities; prospective (current protocol / procedures and checklists for fieldwork) and retrospective (historic changes of procedures)
+- *Work in progress*: some protocols are published, others in preparation
+- protocols are updated on demand; there is a regular review to assure actual field activities still match the outlined procedures
+- backup is inherent via git (on github and local)
+- publication happens continuously via the project-specific protocols on the INBO protocols website: <https://protocols.inbo.be/project-specific-protocols-spp.html>.
+- responsibility to update and manage MNE protocols rests with INBO/MNE
