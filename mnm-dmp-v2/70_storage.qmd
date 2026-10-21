@@ -9,11 +9,15 @@ Storage and back-up of the datasets is situation- and source dependent. Where ap
 
 
 Various Google Drives in the INBO Google environment are used for data storage in this project. 
-These generally include one project folder per project drive and folders on the INBO Google Archive Drive. Access to the files on these drives can be limited to 'need to know' INBO staff.
+These generally include one project folder per project drive and folders on the INBO Google Archive Drive. 
+Access to the files on these drives can be limited to 'need to know' INBO staff.
 Both types of drives have a 30-day back-up of any deleted files.
 
 The Archive Drive is also a 'read-only' Drive for most users, with permissions to upload files being limited to a short list of INBO staff.
+Data storage redundancy and archiving on all drives is guaranteed by google, and responsibility for the backups lies with team ICT.
 
+Within the INBO infrastructure, there is an option for extra backups on an "AWS glacier" storage.
+This is currently not used and might be re-evaluated at a later point in time.
 
-We also plan to use local digital storage on physical hard drives for regular back-ups. Which data shall be backed up in this way has not yet been completely decided, but where possible this has been detailed previously under the dataset descriptions.
-A comprehensive dataset back-up plan for the entire project needs to be designed and implemented; therefore this section will be updated accordingly when appropriate.
+Physical hard drives as on-site backups are not supported and even discouraged by INBO ICT department, and thus we rely fully on the described cloud storage.
+

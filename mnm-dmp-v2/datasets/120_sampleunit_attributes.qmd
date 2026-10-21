@@ -22,7 +22,7 @@ They are captured and stored via the MNE databases and fieldwork apps (alongside
 - Collection since 2025 and expected to run until at least 2050; exclusively carried out by INBO
 - Expected to include ongoing/continuous data revision/addition and yearly updating of dataset until (at least) 2050.
 - Data are updated frequently (e.g. daily) in the production environment; via QGIS/QField fieldwork Apps and SQL database
-- Backup strategy: nightly automatic dumps and storage of reversible "patches" to allow retro-inspection of data; regular (~daily) backup to cloud storage such as Google Drive; monthly copy to local digital storage (physical hard drives).
+- Backup strategy: nightly automatic dumps and storage of reversible "patches" to allow retro-inspection of data; regular (~daily) backup to cloud storage such as Google Drive.
 - Publishing strategy: publication is irregular and will be triggered by reports and analyses; more regular publication is desirable but hinges on separation from fieldwork co-ordination and an assessment of the explanatory relevance of collected parameters
 - Data management responsibilities rest with INBO/MNE.
 

@@ -30,7 +30,7 @@ It also contains efficient links from the unit identification system of upstream
 - Collection since 2025, expected until at least 2050 and exclusively carried out by INBO/MNE
 - Include ongoing/continuous data revision/addition based on REP adjustments and field observations.
 - Data are updated frequently (e.g. daily) in the production environment. Scripted mainenance tasks ensure logical consistency and synchronize changes. Storage via a postgreSQL database.
-- Backup strategy: nightly automatic dumps and storage of reversible "patches" to allow retro-inspection of data; regular (~daily) backup to cloud storage such as Google Drive; monthly copy to local digital storage (physical hard drives).
+- Backup strategy: nightly automatic dumps and storage of reversible "patches" to allow retro-inspection of data; regular (~daily) backup to cloud storage such as Google Drive.
 - publication:
   - *[tbd.]* Since the database does not directly contain primary data, and since its main purpose is internal workforce co-ordination and information exchange, this data might not be of value for an external audience.
   - However, the database tooling and development are publicly available via git (continuous).
